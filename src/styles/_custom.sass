@@ -1,45 +1,74 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 20%
+    top: 55%
     right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    width: 120px
     position: absolute
-    top: 51%
-    right: 30%
+    animation: float1 3.5s ease-in-out infinite alternate
+  
+  &-2
+    top: 15%
+    right: 70%
+    width: 80px
+    position: absolute
+    animation: float1 2.8s ease-in-out infinite alternate
+  
+  &-3
+    top: 70%
+    right: 60%
+    width: 80px
+    position: absolute
+    animation: float1 2.8s ease-in-out infinite alternate
+
+@media (min-width: 1025px)
+  .banner-principal-decorativo
+    &-1
+      top: 55%
+      right: 10%
+      width: 120px
+      position: absolute
+    
+    &-2
+      top: 15%
+      right: 70%
+      width: 80px
+    
+    &-3
+      top: 70%
+      right: 60%
+      width: 80px
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
-///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
+    
 .banner-principal .tarjeta
+  
+.banner-principal__row .banner-principal__img
+  width: 600px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
+
+.titulo-principal__numero
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative
+  background-color: $color-acento-contenido !important
+
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/banner_interno.png') !important
+
+  .banner-principal .tarjeta
   background-position: left 50% !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
-
-.banner-principal__row .banner-principal__img
-  width: 500px !important
-  @media screen and (max-width: $bp-max-xl)
-    width: 400px !important
-
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: $color-sistema-texto !important
-.banner-interno__fondo
-  background-image: url("../assets/curso/banner_interno.png") !important
-.banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-md)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
-  @media screen and (max-width: $bp-max-sm)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
