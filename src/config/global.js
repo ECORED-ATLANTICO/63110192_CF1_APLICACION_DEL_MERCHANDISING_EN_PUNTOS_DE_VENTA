@@ -36,13 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Producto y servicio',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Características',
+            hash: 't_1_3',
           },
         ],
       },
@@ -50,14 +60,121 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Cliente',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Concepto',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Tipologías',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Perfil',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Segmentos',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Características comportamentales',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: '<em>Merchandising</em>',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Definición',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Evolución',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Principios',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Tipos',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Objetivos',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Beneficios',
+            hash: 't_3_6',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: '<em>Merchandising</em> visual',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: '<em>Layout</em>',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Mobiliario',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Vitrinismo',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Ambientación',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Señalización y rotulación',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Iluminación',
+            hash: 't_4_6',
+          },
+          {
+            numero: '4.7',
+            titulo: 'Color',
+            hash: 't_4_7',
+          },
+          {
+            numero: '4.8',
+            titulo: 'Música ambiental',
+            hash: 't_4_8',
+          },
+        ],
       },
     ],
     subMenu: [
