@@ -47,36 +47,36 @@
           img(src="@/assets/curso/temas/tema_2/img_3.png", class="img-flud")
       .col-12.col-lg-8.mb-5
         .tarjeta.tarjeta--fondo__slider.p-5.mb-0
-          SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-4
+          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.order-1.order-lg-1.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-0
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_5.svg')
-              .col-10.col-lg-8.order-2.order-lg-2.mb-0
+              .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes nuevos:</b> son quienes dan su primer paso hacia la marca, explorando una compra inicial que puede abrir la puerta a una relación futura. A menudo, las empresas desarrollan estrategias de captación como promociones o descuentos para atraerlos. Ejemplo: Tesla utiliza una estrategia de pruebas gratuitas para atraer nuevos clientes y convencerlos de la calidad de sus vehículos eléctricos.
             
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.order-1.order-lg-1.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-0
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_6.svg')
-              .col-10.col-lg-8.order-2.order-lg-2.mb-0
+              .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes recurrentes:</b> son aquellos que compran con regularidad. Estos clientes ya han construido un vínculo con la empresa, confían en lo que ofrece y representan un flujo continuo y predecible de ingresos. Un ejemplo clásico de clientes recurrentes son los suscriptores de servicios como Netflix o los clientes leales de marcas como Apple.
 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.order-1.order-lg-1.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-0
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_7.svg')
-              .col-10.col-lg-8.order-2.order-lg-2.mb-0
+              .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes potenciales:</b> aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de <em>marketing</em> deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.order-1.order-lg-1.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-0
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_8.svg')
-              .col-10.col-lg-8.order-2.order-lg-2.mb-0
+              .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes leales:</b> son clientes que, con el tiempo, han mantenido una elección constante por una marca o producto, reflejando fidelidad y generando un alto nivel de compras repetidas. Un ejemplo sería Starbucks, que ha cultivado una base de clientes muy leal gracias a su programa de recompensas y la calidad constante de sus productos.
-    
-    .row.justify-content-center.align-items-center.mb-5
+    .bg_img_3.mb-5
+      .row.justify-content-center.align-items-center.mb-5
         .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
@@ -87,35 +87,35 @@
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10 
-        .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-          p.mb-2 El perfil del cliente permite crear estrategias de <em>marketing</em> personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10 
+          .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
+            p.mb-2 El perfil del cliente permite crear estrategias de <em>marketing</em> personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
 
-    separador
+      separador
 
-    .row.justify-content-center.align-items-center.mb-0     
-      .col-12.col-lg-12
-        #t_2_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.3. Perfil 
-        .mb-0 
+      .row.justify-content-center.align-items-center.mb-0     
+        .col-12.col-lg-12
+          #t_2_3.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 2.3. Perfil 
+          .mb-0 
     
-    .row.justify-content-center.align-items-start.mb-3
-      .col-12.col-lg-4
-        figure.mb-5
-          img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
+      .row.justify-content-center.align-items-start.mb-3
+        .col-12.col-lg-4
+          figure.mb-5
+            img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
 
-      .col-12.col-lg-8.mb-1.mb-lg-1
-        p.mb-3 La perfilación del cliente es esencial en la gestión comercial moderna, ya que permite identificar, clasificar y comprender a los consumidores con base en variables objetivas y subjetivas. Su utilidad radica en que ofrece a las organizaciones una visión clara sobre quién es su cliente, cómo actúa, qué espera y qué valor percibe en los productos o servicios ofrecidos. Esta comprensión estratégica es clave para diseñar acciones comerciales más precisas, eficientes y rentables.
-        .tarjeta.color-secundario-20.p-3
-          .row.align-items-center
-            .col-9.col-lg-10
-              p.mb-0 En la práctica, el cliente no solo es el punto de partida de toda acción de mercadeo, sino también el objetivo final de cualquier esfuerzo empresarial. Cada idea, cada canal de distribución, cada promoción y cada innovación debe responder a una necesidad real del cliente. Sin embargo, asumir que todos los consumidores son iguales sería un error estratégico. La diversidad de perfiles obliga a profundizar en el conocimiento del cliente más allá de lo superficial, y es allí donde la perfilación cobra relevancia.
-            .col-3.col-lg-2
-              figure
-                img(src='@/assets/curso/temas/tema_2/img_12.png', class="img-fluid")
+        .col-12.col-lg-8.mb-1.mb-lg-1
+          p.mb-3 La perfilación del cliente es esencial en la gestión comercial moderna, ya que permite identificar, clasificar y comprender a los consumidores con base en variables objetivas y subjetivas. Su utilidad radica en que ofrece a las organizaciones una visión clara sobre quién es su cliente, cómo actúa, qué espera y qué valor percibe en los productos o servicios ofrecidos. Esta comprensión estratégica es clave para diseñar acciones comerciales más precisas, eficientes y rentables.
+          .tarjeta.color-secundario-20.p-3
+            .row.align-items-center
+              .col-9.col-lg-10
+                p.mb-0 En la práctica, el cliente no solo es el punto de partida de toda acción de mercadeo, sino también el objetivo final de cualquier esfuerzo empresarial. Cada idea, cada canal de distribución, cada promoción y cada innovación debe responder a una necesidad real del cliente. Sin embargo, asumir que todos los consumidores son iguales sería un error estratégico. La diversidad de perfiles obliga a profundizar en el conocimiento del cliente más allá de lo superficial, y es allí donde la perfilación cobra relevancia.
+              .col-3.col-lg-2
+                figure
+                  img(src='@/assets/curso/temas/tema_2/img_12.png', class="img-fluid")
     
-    p.mb-5 La perfilación del cliente, parte del análisis de cuatro grandes dimensiones:
+      p.mb-5 La perfilación del cliente, parte del análisis de cuatro grandes dimensiones:
 
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
@@ -156,7 +156,8 @@
               img(src='@/assets/curso/temas/tema_2/img_17.png', class="img-fluid")
     
     <br><br>
-    .row.justify-content-center.align-items-center.mb-5.mt-5
+    .bg_img_4.mb-5
+      .row.justify-content-center.align-items-center.mb-5.mt-5
         .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 3.
@@ -167,12 +168,12 @@
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10 
-        .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-          p.mb-2 En resumen, la perfilación del cliente permite crear estrategias de mercadeo más personalizadas y efectivas, optimizando los recursos y mejorando la experiencia de compra. Por ejemplo, el perfil del cliente típico de Zara incluye personas que buscan moda accesible, con diseño actual y disponibilidad inmediata. Este conocimiento permite a la marca ofrecer colecciones dinámicas, renovar el inventario frecuentemente y mantener una relación estrecha con su público objetivo (Armstrong & Kotler, 2017).
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10 
+          .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
+            p.mb-2 En resumen, la perfilación del cliente permite crear estrategias de mercadeo más personalizadas y efectivas, optimizando los recursos y mejorando la experiencia de compra. Por ejemplo, el perfil del cliente típico de Zara incluye personas que buscan moda accesible, con diseño actual y disponibilidad inmediata. Este conocimiento permite a la marca ofrecer colecciones dinámicas, renovar el inventario frecuentemente y mantener una relación estrecha con su público objetivo (Armstrong & Kotler, 2017).
 
-    separador
+      separador
 
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
@@ -253,8 +254,6 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12.mb-3
         p.mb-3 La segmentación de clientes es una herramienta poderosa que permite a las empresas entender mejor a su público objetivo y ofrecer productos o servicios de manera más eficaz. Al descomponer un mercado vasto en grupos más definidos y similares, las empresas tienen la oportunidad de afinar sus estrategias de <em>marketing</em>, ofreciendo respuestas más específicas que no solo mejoran la experiencia del cliente, sino que también amplifican las posibilidades de expansión y generación de ingresos.
-      
-
 
     separador
 
@@ -270,10 +269,10 @@
         p.mb-3 Entre las principales características tenemos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-6.col-xl-4.order-1.order-lg-1.order-xl-1.mb-lg-0.mb-3
+      .col-8.col-lg-4.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_2/img_25.png', class="img-fluid")
-      .col-12.col-lg-12.col-xl-8.order-2.order-lg-2.order-xl-2.mb-0
+      .col-12.col-lg-8.mb-0
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95

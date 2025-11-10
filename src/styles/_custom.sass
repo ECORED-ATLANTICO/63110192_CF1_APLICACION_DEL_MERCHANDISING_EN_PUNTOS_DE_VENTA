@@ -69,6 +69,9 @@
 
 .banner-interno__titulo__icono i
   color: $color-primario
+ 
+.barra-avance__boton--regresar span
+  color: $white !important
 
 figcaption
   font-weight: normal
@@ -77,20 +80,20 @@ figcaption
 .bg_img
   &_1
     position: relative
-    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
       position: relative
     &::before
       content: ''
-      content: '';
-      position: absolute;
-      margin: 0;
-      top: -30px;
-      left: 28px;
-      width: calc(100% + 150px);
-      height: 140%;
-      background-image: url('../assets/curso/temas/tema_1/img_7.png') !important
+      position: absolute
+      margin: 0
+      top: -65px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_1/img_24.png') !important
       background-repeat: no-repeat
-  
+      pointer-events: none
+
   &_2
     position: relative
     h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
@@ -121,6 +124,81 @@ figcaption
     .slyder-a__bullets__item
       background-color: lighten($color-acento-botones, 15%)
       border: 1px solid lighten($color-acento-botones, 15%)
+  &_3
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 60px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_2/img_31.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_4
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -115px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_2/img_32.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_5
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 700px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_3/img_28.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_6
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -25px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_3/img_29.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_7
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 90px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_3/img_30.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
 
 // Tabla a 
 .tabla-a thead
@@ -249,3 +327,20 @@ figcaption
     .crd_hover_txt--body
       p
         font-size: 0.85em
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: $color-terciario-20
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones !important
+  color: $white !important
+.acordion__activo
+  background-color: $color-primario-20 !important
+.tarjeta.acordeonA figcaption
+  background-color: $color-acento-botones
+  color: #12263F
+  font-weight: bold
+  text-align: center
+  padding: 8px
+  width: 100%

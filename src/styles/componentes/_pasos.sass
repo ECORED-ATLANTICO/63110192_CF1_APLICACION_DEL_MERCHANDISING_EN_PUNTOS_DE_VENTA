@@ -123,6 +123,22 @@
         background-color: $color-acento-contenido
         div
           color: textColor($color-acento-contenido)
+  &.color-acento-contenido-20
+    .pasos-a
+      &__numero
+        &::after
+          border-left-color: $color-adicional-3
+      &__linea
+        .hor-line
+          border-top-color: $color-adicional-3
+
+        &__esquina
+          &__linea
+            border-color: $color-adicional-3
+      &__circle
+        background-color: $color-acento-contenido-20
+        div
+          color: textColor($color-acento-contenido)
   &.color-acento-botones
     .pasos-a
       &__numero
