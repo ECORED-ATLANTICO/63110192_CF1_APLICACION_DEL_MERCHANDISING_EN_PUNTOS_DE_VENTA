@@ -224,22 +224,143 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Producto y servicio',
+      referencia:
+        'lepatru007. (2022, 26 agosto). <em>Qué es un producto: Características, tipos, propósitos, beneficios</em> [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Ls8xm2fys7I',
+    },
+    {
+      tema: 'Cliente',
+      referencia:
+        '<em>Marketing Trainee</em>. (2021, 24 junio). <em>¿QUÉ ES un servicio? Tipos de servicios, características</em> [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PsAhMpLZinM',
+    },
+    {
+      tema: '<em>Merchandising</em>',
+      referencia:
+        'López, B. (2017). <em>¿Qué es el Merchandising? Todo lo que tienes que saber</em> [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Am6_RilX9xk',
+    },
+    {
+      tema: '<em>Merchandising visual</em>',
+      referencia:
+        'Educativos Digitales SENA. (2021). <em>Visual merchandising</em> [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=6kYW3aYKamI',
+    },
+    {
+      tema: '<em>Merchandising</em> visual',
+      referencia:
+        'Editorial GG. (s.f.) (2016). <em>Visual merchandising</em> [PDF]. Editorial Gustavo Gili.',
+      tipo: 'Libro',
+      link:
+        'https://editorialgg.com/media/catalog/product/9/7/9788425228681_inside.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Ambientación',
+      significado:
+        'Conjunto de elementos sensoriales como aroma, temperatura, decoración y música que crean una atmósfera específica en el punto de venta.',
+    },
+    {
+      termino: 'Cliente',
+      significado:
+        'Persona u organización que adquiere productos o servicios y es el centro de las estrategias comerciales y de merchandising.',
+    },
+    {
+      termino: 'Color',
+      significado:
+        'Elemento visual que influye en las emociones del consumidor y refuerza la identidad de marca en el punto de venta.',
+    },
+    {
+      termino: 'Distribución (<em>layout</em>)',
+      significado:
+        'Organización del espacio físico del punto de venta para facilitar el recorrido del cliente y optimizar la exhibición de productos.',
+    },
+    {
+      termino: 'Experiencia de compra',
+      significado:
+        'Conjunto de sensaciones, percepciones y emociones que vive el cliente durante su interacción con el punto de venta.',
+    },
+    {
+      termino: 'Fidelización',
+      significado:
+        'Estrategia orientada a lograr que el cliente repita su compra y mantenga una relación constante con la marca o el negocio.',
+    },
+    {
+      termino: 'Iluminación',
+      significado:
+        'Uso estratégico de la luz para destacar productos, crear ambientes y guiar al consumidor dentro del establecimiento.',
+    },
+    {
+      termino: 'Marca',
+      significado:
+        'Nombre, símbolo o diseño que identifica un producto o servicio y lo diferencia de la competencia.',
+    },
+    {
+      termino: '<em>Merchandising</em>',
+      significado:
+        'Conjunto de técnicas que buscan aumentar la venta de productos a través de su presentación estratégica en el punto de venta.',
+    },
+    {
+      termino: '<em>Merchandising</em> visual',
+      significado:
+        'Aplicación de elementos visuales y sensoriales en el punto de venta para atraer y motivar al cliente a comprar.',
+    },
+    {
+      termino: 'Mobiliario',
+      significado:
+        'Equipamiento físico como estanterías, vitrinas o góndolas utilizado para exhibir productos en el establecimiento.',
+    },
+    {
+      termino: 'Música ambiental',
+      significado:
+        'Sonido de fondo utilizado para mejorar la experiencia del cliente, reforzar el ambiente y prolongar el tiempo de permanencia.',
+    },
+    {
+      termino: 'Perfil del cliente',
+      significado:
+        'Conjunto de características demográficas, psicográficas y conductuales que describen a un tipo de consumidor.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'Bien tangible que se ofrece en el mercado para satisfacer necesidades o deseos del cliente.',
+    },
+    {
+      termino: 'Promoción',
+      significado:
+        'Acciones y estrategias que buscan incentivar la compra mediante descuentos, ofertas o estímulos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Editorial .GG. (s.f.). <em>Visual merchandising (2016)</em>. Editorial Gustavo Gili.',
+      link:
+        'https://editorialgg.com/media/catalog/product/9/7/9788425228681_inside.pdf',
+    },
+    {
+      referencia:
+        'Kotler, P., & Armstrong, G. (2021). <em>Fundamentos de marketing (14.ª ed.)</em>. Pearson.',
+      link:
+        'https://tigubarcelos.wordpress.com/wp-content/uploads/2019/03/fundamentos-de-marketing-ld267.pdf',
+    },
+    {
+      referencia:
+        'Martínez, D. (s.f.). Merchandising (2017). <em>Fundación Universitaria del Área Andina.</em>',
+      link:
+        'https://digitk.areandina.edu.co/bitstream/handle/areandina/1370/Merchandising.pdf',
+    },
+    {
+      referencia:
+        'Martínez Cruz, H. (s.f.). <em>El arte de seducir: Merchandising (1.ª ed.).</em> ECOE Ediciones.',
+      link:
+        'https://www.ecoeediciones.com/wp-content/uploads/2018/01/El-arte-de-seducir-1.pdf',
     },
   ],
   creditos: [
