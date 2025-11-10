@@ -59,12 +59,8 @@
       .col-2.col-lg-1.mb-3
         img(src="@/assets/curso/temas/tema_1/img_4_1.svg", class="img-fluid")
     
-    .row.justify-content-start.align-items-start.mb-5
-      .col-1.col-lg-1.mb-0
-        figure.p-0
-          img(src="@/assets/curso/temas/tema_1/img_5.svg", class="img-fluid")
-      .col-6.col-lg-6.mb-5
-        h3.p-0.titulo-tercero Tipos de productos y servicios
+    h3(data-aos='zoom-in-right').mb-4
+      span.label-title.label-title--1 Tipos de productos y servicios
 
     .row.justify-content-center.align-items-start.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")

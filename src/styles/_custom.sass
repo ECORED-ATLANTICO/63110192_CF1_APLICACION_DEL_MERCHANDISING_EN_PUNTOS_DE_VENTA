@@ -196,3 +196,56 @@ figcaption
         margin-right: 7px
         @media (max-width: 1024px)
           margin-right: 7px
+
+//bgr
+
+.label-title
+  font-size: 1.25rem
+  font-weight: bold
+  color: #0d172a
+  position: relative
+  display: flex 
+  align-items: center 
+  padding: 10px 5px 15px 60px
+  background-repeat: no-repeat
+  background-position: left center
+  background-size: contain
+  line-height: 1.3
+  min-height: 55px 
+
+  &--1
+    background-image: url('../assets/curso/temas/tema_1/img_5.svg')
+  &--2
+    background-image: url('../assets/curso/temas/tema_2/img_21.svg')
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important 
+  &:hover    
+    .crd_hover_txt--body   
+      background-color: $color-terciario-20
+      color: $color-sistema-texto
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+    h4
+      color: $color-sistema-texto !important
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.2rem 0.5rem 1.5rem 0.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $white
+    &.color-terciario-20
+      background-color: $color-terciario-20
+    h4
+      color: $color-sistema-texto
+      font-style: italic
+
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
