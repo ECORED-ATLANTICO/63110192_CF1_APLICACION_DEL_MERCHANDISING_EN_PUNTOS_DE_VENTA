@@ -15,12 +15,12 @@
     .row.justify-content-center.align-items-start.mb-3
       .col-12.col-lg-7.mb-1.mb-lg-1
         p.mb-3 Este componente formativo tiene como propósito que el aprendiz conozca y aplique los principios fundamentales del <em>merchandising</em>, comprendiendo cómo intervienen elementos como el color, la iluminación, el mobiliario o la ambientación para mejorar la experiencia del consumidor. También se estudian las características del producto y del cliente como base para diseñar una exhibición efectiva.
-        .tarjeta.boton.p-3
+        .tarjeta.color-secundario-20.p-3
           .row.align-items-center
-            .col-3.col-lg-2
+            .col-2.col-lg-1
               figure
-                img(src='@/assets/curso/introduccion/img_2.png', class="img-fluid")
-            .col-9.col-lg-10
+                img(src='@/assets/curso/introduccion/img_2.svg', class="img-fluid")
+            .col-10.col-lg-11
               p.mb-0 A lo largo del desarrollo temático, el aprendiz podrá identificar tipos de clientes, segmentarlos, reconocer los diferentes tipos de <em>merchandising</em> y aplicar conceptos de <em>layout</em>, señalización y música ambiental. Todo esto permitirá que la exhibición de productos responda a una estrategia clara, alineada con las necesidades del mercado y el perfil del comprador.
   
       .col-12.col-lg-5

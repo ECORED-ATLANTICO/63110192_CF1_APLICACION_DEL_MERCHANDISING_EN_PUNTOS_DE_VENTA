@@ -107,7 +107,7 @@
 
       .col-12.col-lg-8.mb-1.mb-lg-1
         p.mb-3 La perfilación del cliente es esencial en la gestión comercial moderna, ya que permite identificar, clasificar y comprender a los consumidores con base en variables objetivas y subjetivas. Su utilidad radica en que ofrece a las organizaciones una visión clara sobre quién es su cliente, cómo actúa, qué espera y qué valor percibe en los productos o servicios ofrecidos. Esta comprensión estratégica es clave para diseñar acciones comerciales más precisas, eficientes y rentables.
-        .tarjeta.boton.p-3
+        .tarjeta.color-secundario-20.p-3
           .row.align-items-center
             .col-9.col-lg-10
               p.mb-0 En la práctica, el cliente no solo es el punto de partida de toda acción de mercadeo, sino también el objetivo final de cualquier esfuerzo empresarial. Cada idea, cada canal de distribución, cada promoción y cada innovación debe responder a una necesidad real del cliente. Sin embargo, asumir que todos los consumidores son iguales sería un error estratégico. La diversidad de perfiles obliga a profundizar en el conocimiento del cliente más allá de lo superficial, y es allí donde la perfilación cobra relevancia.
@@ -120,7 +120,7 @@
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-3
             h5.mb-3 Demográficas 
             p.mb-1 Esta dimensión abarca variables como edad, género, ingresos, nivel educativo u ocupación. Aunque es una de las formas más tradicionales de segmentar, sigue siendo fundamental, ya que permite identificar patrones de consumo asociados a etapas de vida, nivel adquisitivo y rol en la sociedad. Por ejemplo, un joven profesional con alto nivel educativo y buen salario probablemente tendrá intereses y comportamientos distintos a los de una persona jubilada en zona rural. 
             p.mb-3 (Kotler & Keller, 2016).
@@ -156,7 +156,7 @@
               img(src='@/assets/curso/temas/tema_2/img_17.png', class="img-fluid")
     
     <br><br>
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.mt-5
         .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 3.
@@ -246,7 +246,7 @@
           img(src="@/assets/curso/temas/tema_2/img_23.png", class="img-fluid")
       .col-12.col-lg-8
         p.mb-2(data-aos="fade-left") La segmentación facilita a las empresas identificar a sus clientes clave, mientras adaptan sus ofertas y estrategias comunicacionales para satisfacer de manera más precisa las necesidades y deseos específicos de cada segmento. Esto aumenta la relevancia de las campañas, mejora la eficiencia de los recursos y fomenta una relación más estrecha con los consumidores. 
-          .tarjeta.boton.p-3
+          .tarjeta.color-secundario-20.p-3
             .row.align-items-center
               .col-9.col-lg-10
                 p.mb-0 <b>Ejemplo en la práctica:</b> una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el fitness (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.

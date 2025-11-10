@@ -81,12 +81,13 @@ figcaption
       position: relative
     &::before
       content: ''
-      position: absolute
-      margin: 0
-      top: 2px
-      left: 10px
-      width: calc(100% + 96px)
-      height: 100%
+      content: '';
+      position: absolute;
+      margin: 0;
+      top: -30px;
+      left: 28px;
+      width: calc(100% + 150px);
+      height: 140%;
       background-image: url('../assets/curso/temas/tema_1/img_7.png') !important
       background-repeat: no-repeat
   
@@ -131,3 +132,67 @@ figcaption
 .bg-table-01
   color: $color-sistema-a
   background-color: $color-terciario-10
+
+// factores-slider custom-slider
+.factores-slider, .custom-slider
+  &__icon 
+    max-height: 93px
+  .h-95
+    height: 95% !important
+  .slyder-f
+    align-items: center
+    justify-content: center
+    gap: 0
+  .slyder-f__btn
+    background-color: $color-acento-botones
+    color: $white !important
+    height: 42px
+    width: 42px
+    min-width: 42px
+    border-radius: 50%
+    padding: 0 !important
+    transition: transform 0.3s
+    z-index: 100
+    
+    &:hover
+      transform: scale(1.1)
+    .fa-chevron-left, .fa-chevron-right
+      font-size: 1.5rem
+    &.ps-3
+      margin-left: 7px
+      @media (max-width: 1024px)
+        margin-left: 7px
+    &.pe-3
+      margin-right: 7px
+      @media (max-width: 1024px)
+        margin-right: 7px
+  &--color-fondo-1
+    &__icon 
+      max-height: 93px
+    .h-95
+      height: 95% !important
+    .slyder-f
+      align-items: center
+      justify-content: center
+      gap: 0
+    .slyder-f__btn
+      background-color: $color-primario !important
+      color: $white !important
+      height: 42px
+      width: 42px
+      min-width: 42px
+      border-radius: 50%
+      padding: 0 !important
+      transition: transform 0.3s
+      &:hover
+        transform: scale(1.1)
+      .fa-chevron-left, .fa-chevron-right
+        font-size: 1.5rem
+      &.ps-3
+        margin-left: 7px
+        @media (max-width: 1024px)
+          margin-left: 7px
+      &.pe-3
+        margin-right: 7px
+        @media (max-width: 1024px)
+          margin-right: 7px
