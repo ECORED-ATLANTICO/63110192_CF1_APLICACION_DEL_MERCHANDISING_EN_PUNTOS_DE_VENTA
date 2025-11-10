@@ -43,7 +43,7 @@ table
   
 
 .tabla-b
-  overflow-x: auto
+  overflow-x: autoz
   &__header
     background-color: $color-acento-contenido
     padding: 15px
@@ -56,6 +56,11 @@ table
   table
     table-layout: auto
     min-width: 700px
+  thead
+    border-top: 5px solid 
+    border-color: $color-acento-contenido
+    background-color: $table-header-bg-color
+    font-size: $h4-font-size
   tr
     &:nth-child(even)
       background-color: transparentize($color-sistema-f, 0.6)
