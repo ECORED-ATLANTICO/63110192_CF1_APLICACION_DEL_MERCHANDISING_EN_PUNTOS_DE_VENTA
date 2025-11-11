@@ -1,1 +1,1 @@
-module.exports = 'Principios del <em>merchandising</em>'
+module.exports = 'Principios del merchandising'

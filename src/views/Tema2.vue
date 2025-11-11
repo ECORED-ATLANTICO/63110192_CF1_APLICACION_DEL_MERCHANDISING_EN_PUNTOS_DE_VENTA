@@ -193,7 +193,7 @@
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-tabla
             h5 Tabla 2. 
             |  Segmentación de clientes
         .tabla-b.mb-5

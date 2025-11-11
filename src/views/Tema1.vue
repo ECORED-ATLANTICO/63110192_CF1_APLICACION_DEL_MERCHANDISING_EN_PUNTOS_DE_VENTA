@@ -195,7 +195,7 @@
     .bg_img_1.mb-5
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-10.mb-4
-          .titulo-sexto.color-acento-contenido
+          .titulo-sexto.color-tabla
               h5 Tabla 1. 
               |  Características de productos y servicios
           .tabla-a.mb-5
