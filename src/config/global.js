@@ -245,7 +245,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=Am6_RilX9xk',
     },
     {
-      tema: '<em>Merchandising visual</em>',
+      tema: '<em>Merchandising</em> visual',
       referencia:
         'Educativos Digitales SENA. (2021). <em>Visual merchandising</em> [Vídeo]. YouTube.',
       tipo: 'Video',
@@ -269,7 +269,7 @@ export default {
     {
       termino: 'Cliente',
       significado:
-        'Persona u organización que adquiere productos o servicios y es el centro de las estrategias comerciales y de merchandising.',
+        'Persona u organización que adquiere productos o servicios y es el centro de las estrategias comerciales y de <em>merchandising</em>.',
     },
     {
       termino: 'Color',
@@ -352,7 +352,7 @@ export default {
     },
     {
       referencia:
-        'Martínez, D. (s.f.). Merchandising (2017). <em>Fundación Universitaria del Área Andina.</em>',
+        'Martínez, D. (s.f.). <em>Merchandising</em> (2017). <em>Fundación Universitaria del Área Andina.</em>',
       link:
         'https://digitk.areandina.edu.co/bitstream/handle/areandina/1370/Merchandising.pdf',
     },

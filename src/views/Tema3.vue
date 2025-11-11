@@ -59,7 +59,7 @@
                 img(src="@/assets/curso/temas/tema_3/img_4.png", class="img-fluid")
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Moderno
-              p.mb-2.text-small.text-center Integra conceptos de marketing visual, diseño de ambientes, y promoción de marca. Inicia la incorporación de tecnología básica.
+              p.mb-2.text-small.text-center Integra conceptos de <em>marketing</em> visual, diseño de ambientes, y promoción de marca. Inicia la incorporación de tecnología básica.
               p.mb-2.text-small.text-center <b>Ejemplo.</b> Mobiliario con diseño atractivo, iluminación dirigida y vitrinas temáticas.
 
         .col-12.col-md-6.col-xl-4.mb-4
@@ -249,7 +249,7 @@
         .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 5.
-            |  Objetivos del merchandising
+            |  Objetivos del <em>merchandising</em>
           figure
             img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3")
             img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3")
@@ -274,7 +274,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-8.order-2.order-lg-1.mb-0
                 h3.mb-3 Mayor rotación del producto
-                p.mb-0 El merchandising permite aumentar la rotación de productos al presentarlos de manera llamativa y estratégica. Esto incentiva una mayor frecuencia de compra y evita la acumulación de inventario, lo cual es clave para productos perecederos o de alta rotación. Acciones como promociones semanales o ubicaciones destacadas ayudan a lograr este efecto (Martínez Cruz, s. f.; Editorial GG, 2016).
+                p.mb-0 El <em>merchandising</em> permite aumentar la rotación de productos al presentarlos de manera llamativa y estratégica. Esto incentiva una mayor frecuencia de compra y evita la acumulación de inventario, lo cual es clave para productos perecederos o de alta rotación. Acciones como promociones semanales o ubicaciones destacadas ayudan a lograr este efecto (Martínez Cruz, s. f.; Editorial GG, 2016).
               .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_23.png', class="img-fluid")
@@ -288,7 +288,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-8.order-2.order-lg-1.mb-0
                 h3.mb-3 Incremento de ventas por impulso
-                p.mb-0 El merchandising estimula las compras no planeadas al ubicar productos llamativos en zonas de paso o espera, como las cajas registradoras. Estos estímulos aprovechan momentos estratégicos para incentivar decisiones rápidas de compra, aumentando así el ticket promedio (Editorial GG, 2016).
+                p.mb-0 El <em>merchandising</em> estimula las compras no planeadas al ubicar productos llamativos en zonas de paso o espera, como las cajas registradoras. Estos estímulos aprovechan momentos estratégicos para incentivar decisiones rápidas de compra, aumentando así el ticket promedio (Editorial GG, 2016).
               .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_25.png', class="img-fluid")
@@ -302,7 +302,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-8.order-2.order-lg-1.mb-0
                 h3.mb-3 Ventaja competitiva
-                p.mb-0 El merchandising bien ejecutado se convierte en un diferenciador clave frente a la competencia. Ofrecer experiencias únicas como degustaciones, demostraciones en vivo o ambientaciones inmersivas permite que el cliente perciba un mayor valor y prefiera ese punto de venta (Editorial GG, 2016). 
+                p.mb-0 El <em>merchandising</em> bien ejecutado se convierte en un diferenciador clave frente a la competencia. Ofrecer experiencias únicas como degustaciones, demostraciones en vivo o ambientaciones inmersivas permite que el cliente perciba un mayor valor y prefiera ese punto de venta (Editorial GG, 2016). 
               .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_27.png', class="img-fluid")
