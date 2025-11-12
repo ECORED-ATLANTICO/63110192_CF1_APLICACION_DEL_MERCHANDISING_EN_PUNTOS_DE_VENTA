@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_2_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.1. Concepto 
+          .h2(data-aos="fade-right") 2.1 Concepto 
         .mb-0 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -36,7 +36,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_2_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.2. Tipologías 
+          .h2(data-aos="fade-right") 2.2 Tipologías 
         .mb-0 
     
       p.mb-3 Los clientes pueden organizarse en diferentes grupos dependiendo de lo que son, lo que buscan y cómo actúan frente a una oferta. Esta diversidad permite identificar perfiles como los siguientes:
@@ -49,28 +49,28 @@
         .tarjeta.tarjeta--fondo__slider.p-5.mb-0
           SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_5.svg')
               .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes nuevos:</b> son quienes dan su primer paso hacia la marca, explorando una compra inicial que puede abrir la puerta a una relación futura. A menudo, las empresas desarrollan estrategias de captación como promociones o descuentos para atraerlos. Ejemplo: Tesla utiliza una estrategia de pruebas gratuitas para atraer nuevos clientes y convencerlos de la calidad de sus vehículos eléctricos.
             
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_6.svg')
               .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes recurrentes:</b> son aquellos que compran con regularidad. Estos clientes ya han construido un vínculo con la empresa, confían en lo que ofrece y representan un flujo continuo y predecible de ingresos. Un ejemplo clásico de clientes recurrentes son los suscriptores de servicios como Netflix o los clientes leales de marcas como Apple.
 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_7.svg')
               .col-10.col-lg-9.mb-0
                 p.mb-3 <b>Clientes potenciales:</b> aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de <em>marketing</em> deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-2.mb-lg-0.mb-0
+              .col-6.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_8.svg')
               .col-10.col-lg-9.mb-0
@@ -97,7 +97,7 @@
       .row.justify-content-center.align-items-center.mb-0     
         .col-12.col-lg-12
           #t_2_3.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 2.3. Perfil 
+            .h2(data-aos="fade-right") 2.3 Perfil 
           .mb-0 
     
       .row.justify-content-center.align-items-start.mb-3
@@ -178,7 +178,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_2_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.4. Segmentos 
+          .h2(data-aos="fade-right") 2.4 Segmentos 
         .mb-0 
 
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
@@ -189,7 +189,11 @@
           p.mb-0 La segmentación de clientes es una herramienta esencial en <em>marketing</em>, que implica descomponer un mercado amplio y variado en segmentos más pequeños y homogéneos, cuyos integrantes comparten atributos, necesidades y comportamientos comunes, lo que permite una aproximación más precisa y efectiva a cada grupo. Al identificar estos segmentos, las empresas pueden desarrollar enfoques más precisos y personalizados que incrementen la efectividad de sus campañas y el rendimiento de sus productos o servicios.
 
     h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--2 Criterios para la segmentación de clientes.
+      span.label-title.label-title--3 Criterios para la segmentación de clientes
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-12.mb-2
+        p.mb-0 A continuación, una tabla que ilustra cómo se puede segmentar un mercado utilizando varias dimensiones:
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
@@ -235,7 +239,7 @@
              
 
     h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--1 Importancia de la Segmentación.
+      span.label-title.label-title--1 Importancia de la Segmentación
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
@@ -260,7 +264,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_2_5.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.5. Características comportamentales
+          .h2(data-aos="fade-right") 2.5 Características comportamentales
         .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5

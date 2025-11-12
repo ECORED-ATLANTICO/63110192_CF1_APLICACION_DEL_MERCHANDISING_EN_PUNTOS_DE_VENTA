@@ -73,7 +73,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_8.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Producto de consumo
                 p.mb-3 Bienes que se adquieren para uso personal y cotidiano.
                 p.mb-0 <b>Ejemplo:</b> zapatos, jabón, alimentos.

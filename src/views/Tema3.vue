@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_3_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.1. Definición 
+          .h2(data-aos="fade-right") 3.1 Definición 
         .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -34,12 +34,12 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_3_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.2. Evolución 
+          .h2(data-aos="fade-right") 3.2 Evolución 
         .mb-0 
     p.mb-3 El <em>merchandising</em> ha evolucionado desde una simple organización de productos en estanterías hasta convertirse en una estrategia compleja que integra el comportamiento del consumidor, el neuromarketing y el uso de tecnologías interactivas (Editorial GG, 2016).
 
     h3(data-aos='zoom-in-right').mb-5
-      span.label-title.label-title--2 Etapas de evolución del &nbsp;<em>merchandising</em>.
+      span.label-title.label-title--2 Etapas de evolución del &nbsp;<em>merchandising</em>
 
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-6.col-xl-4.mb-4
@@ -49,8 +49,8 @@
                 img(src="@/assets/curso/temas/tema_3/img_3.png", class="img-fluid")
             .crd_hover_txt--body.color-terciario-20.p-4
               h5.mb-4.text-center Tradicional
-              p.mb-2.text-small.text-center  Enfocada en el orden del producto, su visibilidad y accesibilidad. Se basa en la ubicación estratégica dentro del local.
-              p.mb-2.text-small.text-center  <b>Ejemplo.</b> Estanterías organizadas por categoría y a la altura de los ojos.
+              p.mb-2.text-center  Enfocada en el orden del producto, su visibilidad y accesibilidad. Se basa en la ubicación estratégica dentro del local.
+              p.mb-2.text-center  <b>Ejemplo.</b> Estanterías organizadas por categoría y a la altura de los ojos.
 
         .col-12.col-md-6.col-xl-4.mb-4
           .crd_hover_txt.rounded-3(data-aos="flip-left")
@@ -59,8 +59,8 @@
                 img(src="@/assets/curso/temas/tema_3/img_4.png", class="img-fluid")
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Moderno
-              p.mb-2.text-small.text-center Integra conceptos de <em>marketing</em> visual, diseño de ambientes, y promoción de marca. Inicia la incorporación de tecnología básica.
-              p.mb-2.text-small.text-center <b>Ejemplo.</b> Mobiliario con diseño atractivo, iluminación dirigida y vitrinas temáticas.
+              p.mb-2.text-center Integra conceptos de <em>marketing</em> visual, diseño de ambientes, y promoción de marca. Inicia la incorporación de tecnología básica.
+              p.mb-2.text-center <b>Ejemplo.</b> Mobiliario con diseño atractivo, iluminación dirigida y vitrinas temáticas.
 
         .col-12.col-md-6.col-xl-4.mb-4
           .crd_hover_txt.rounded-3(data-aos="flip-left")
@@ -69,15 +69,15 @@
                 img(src="@/assets/curso/temas/tema_3/img_5.png", class="img-fluid")
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Digital
-              p.mb-2.text-small.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, big data y experiencia personalizada.
-              p.mb-2.text-small.text-center <b>Ejemplo.</b> Kioscos interactivos, apps para escanear productos 
+              p.mb-2.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, big data y experiencia personalizada.
+              p.mb-2.text-center <b>Ejemplo.</b> Kioscos interactivos, apps para escanear productos 
 
     separador
 
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_3_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.3. Principios 
+          .h2(data-aos="fade-right") 3.3 Principios 
         .mb-0 
 
       p.mb-5 Los principios básicos del <em>merchandising</em> permiten estructurar su aplicación de manera efectiva y asegurar que se cumpla su objetivo estratégico.
@@ -131,7 +131,7 @@
             h5 Figura 4.
             |  Principios básicos en la aplicación del <em>merchandising</em>
           .row.justify-content-center.align-items-center.mb-5.mt-5
-            .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-0
+            .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12.col-xxl-12.mb-0
               figure
                 img(src="@/assets/curso/temas/tema_3/img_11.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos. Texto de la imagen: describe los principios básicos en la aplicación del merchandising: Atracción: captar la atención del cliente mediante elementos visuales como color, forma y movimiento. Orden: organizar los productos de forma clara y lógica para facilitar la circulación del cliente. Renovación: actualizar periódicamente las exhibiciones y ambientes para mantener el interés del comprador. Coherencia: alinear la presentación del punto de venta con la identidad de marca y el público objetivo. Experiencia: involucrar los sentidos del cliente para generar una vivencia de compra agradable y memorable.")
                 img(src="@/assets/curso/temas/tema_3/img_12.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos. Texto de la imagen: describe los principios básicos en la aplicación del merchandising: Atracción: captar la atención del cliente mediante elementos visuales como color, forma y movimiento. Orden: organizar los productos de forma clara y lógica para facilitar la circulación del cliente. Renovación: actualizar periódicamente las exhibiciones y ambientes para mantener el interés del comprador. Coherencia: alinear la presentación del punto de venta con la identidad de marca y el público objetivo. Experiencia: involucrar los sentidos del cliente para generar una vivencia de compra agradable y memorable.")
@@ -143,7 +143,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_3_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.4. Tipos 
+          .h2(data-aos="fade-right") 3.4 Tipos 
         .mb-0 
     
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
@@ -155,7 +155,7 @@
     
     .bg_img_5.mb-5
       h3(data-aos='zoom-in-right').mb-5
-        span.label-title.label-title--1 Tipos de &nbsp;<em>merchandising</em>.
+        span.label-title.label-title--1 Tipos de &nbsp;<em>merchandising</em>
 
       .row.justify-content-center.align-items-start.mb-5
         .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
@@ -189,7 +189,7 @@
       .row.justify-content-center.align-items-center.mb-0     
         .col-12.col-lg-12
           #t_3_5.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 3.5. Objetivos 
+            .h2(data-aos="fade-right") 3.5 Objetivos 
           .mb-0 
     
       .row.justify-content-center.align-items-center.mb-5
@@ -199,7 +199,7 @@
           img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid")
 
       h3(data-aos='zoom-in-right').mb-5
-        span.label-title.label-title--1 Objetivos de &nbsp;<em>merchandising</em>.
+        span.label-title.label-title--1 Objetivos de &nbsp;<em>merchandising</em>
     
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
@@ -251,8 +251,8 @@
             h5 Figura 5.
             |  Objetivos del <em>merchandising</em>
           figure
-            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3")
-            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3")
+            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresaTexto de la imagen: Se enlistan los objetivos de merchandising entre los cuales tenemos: Incrementar las ventas por impulso. Aumentar el tiempo al interior del punto de venta. Mejorar la presentación del producto. Facilitar la rotación del inventario. Reforzar la imagen de marca. Y orientar al cliente en su trayectoria en proceso de compra.")
+            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresaTexto de la imagen: Se enlistan los objetivos de merchandising entre los cuales tenemos: Incrementar las ventas por impulso. Aumentar el tiempo al interior del punto de venta. Mejorar la presentación del producto. Facilitar la rotación del inventario. Reforzar la imagen de marca. Y orientar al cliente en su trayectoria en proceso de compra.")
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
 
@@ -262,7 +262,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_3_6.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.6. Beneficios 
+          .h2(data-aos="fade-right") 3.6 Beneficios 
         .mb-0 
 
     p.mb-5 El merchandising va más allá de la presentación visual de productos; es una estrategia que impulsa las ventas, mejora la experiencia del cliente y refuerza la identidad de marca. Su correcta aplicación genera ventajas comerciales sostenibles y diferenciadoras en el punto de venta.

@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_4_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.1. <em>Layout</em> 
+          .h2(data-aos="fade-right") 4.1 <em>Layout</em> 
         .mb-0 
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
@@ -76,7 +76,7 @@
 
   
     #t_4_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.2. Mobiliario 
+      .h2(data-aos="fade-right") 4.2 Mobiliario 
     .mb-0 
 
     .row.justify-content-center.align-items-start.mb-3
@@ -99,33 +99,34 @@
         .tarjeta.tarjeta--fondo__slider.p-5.mb-0
           SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9.mb-0
+              .col-10.col-lg-12.mb-0
                 h5.mb-3 La tematización
                 p.mb-3 Es la creación de conceptos visuales asociados a eventos especiales, temporadas o campañas promocionales. Esto ayuda a generar una conexión emocional con los consumidores y a hacer que la experiencia de compra sea más memorable (González, 2019).
             
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9.mb-0
+              .col-10.col-lg-12.mb-0
                 h5.mb-3 La iluminación estratégica
                 p.mb-3 También cumple un rol crucial. Al colocar luz sobre ciertos productos o zonas, se logra resaltar lo más relevante, guiar la mirada del cliente y aumentar la percepción de valor de los artículos exhibidos (González, 2019).
 
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9.mb-0
+              .col-10.col-lg-12.mb-0
                 h5.mb-3 La buena distribución del espacio
                 p.mb-3 En la vitrina evita la saturación visual y permite que el mensaje llegue con claridad. Al equilibrar los elementos, se facilita la lectura del concepto visual y se optimiza el uso del espacio disponible (González, 2019).
 
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9.mb-0
+              .col-10.col-lg-12.mb-0
                 h5.mb-3 La renovación frecuente
                 p.mb-3 Adaptándola a fechas clave o a nuevas promociones. Esta actualización mantiene la atención del cliente, crea un sentido de novedad constante y puede motivar visitas recurrentes al establecimiento (González, 2019).
 
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9.mb-0
+              .col-10.col-lg-12.mb-0
                 h5.mb-3 El enfoque en productos estratégicos
                 p.mb-3 Dentro de la vitrina permite dirigir el interés hacia artículos de alta rotación o con ofertas destacadas, favoreciendo su venta y aprovechando al máximo el espacio de exhibición (González, 2019).
 
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
         figure
-          img(src="@/assets/curso/temas/tema_4/img_5.png", class="img-flud")
+          img(src="@/assets/curso/temas/tema_4/img_5.png", class="img-flud").h-100
+
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-terciario-20").mb-5
       div(titulo="La tematización")
@@ -232,7 +233,7 @@
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
         #t_4_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.3. Música ambiental
+          .h2(data-aos="fade-right") 4.3 Música ambiental
         .mb-0 
 
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
@@ -248,7 +249,7 @@
             p.mb-2 Se recomienda revisar los siguientes videos, los cuales cual aportaran conocimientos relevantes y reforzará contenido de relacionado con el tema <em>merchandising</em> visual: 
     
     h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--1 Visual &nbsp;<em>merchandising.</em>
+      span.label-title.label-title--1 Visual &nbsp;<em>merchandising</em>
     
     figure.mb-5
       .video.mb-2
