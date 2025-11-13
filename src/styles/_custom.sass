@@ -45,11 +45,7 @@
     transform: translateY(0px)
     
 .banner-principal .tarjeta
-  
-.banner-principal__row .banner-principal__img
-  width: 600px !important
-  @media screen and (max-width: $bp-max-xl)
-    width: 400px !important
+  background-position: left 50% !important
 
 .titulo-principal__numero
   min-width: 45px
@@ -61,8 +57,17 @@
 .banner-interno__fondo 
   background-image: url('../assets/curso/portada/banner_interno.png') !important
 
-  .banner-principal .tarjeta
+.banner-principal__row .banner-principal__img
+  width: 600px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
+
+.banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and (max-width: $bp-max-md)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-sm.png) !important
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-xs.png) !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
@@ -197,6 +202,21 @@ figcaption
       width: calc(100% + 96px)
       height: 100%
       background-image: url('../assets/curso/temas/tema_3/img_30.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_8
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .bg_img_2, .slyder-a, .horizontal-scroll__wrapper, .horizontal-scroll, .hidden-slot, .slyder-a__item, .horizontal-scroll--item-fw, .tarjeta, .tarjeta--blanca, .p-4 , .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_2/img_33.png') !important
       background-repeat: no-repeat
       pointer-events: none
 
@@ -346,3 +366,7 @@ figcaption
   text-align: center
   padding: 8px
   width: 100%
+
+
+.text-justify
+ text-align: justify !important

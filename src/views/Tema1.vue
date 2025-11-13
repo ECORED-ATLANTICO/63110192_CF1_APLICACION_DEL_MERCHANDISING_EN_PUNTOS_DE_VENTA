@@ -31,9 +31,9 @@
           p.mb-0 Por otro lado, los servicios se entienden como actividades, beneficios o satisfacciones que se ofrecen para ser consumidas, pero que no adoptan una forma física. No implican la propiedad de algo, sino la experiencia de un proceso. En este sentido, los servicios son intangibles, inseparables de su fuente, variables según el contexto y perecederos, es decir, no pueden almacenarse ni repetirse exactamente igual (Martínez Cruz, s.&nbsp;f.) Ejemplos cotidianos de servicios incluyen una consulta médica, una asesoría contable o un masaje terapéutico. En todos los casos, el valor está en la atención, la experiencia y el resultado percibido por el cliente.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-11.mb-3
+      .col-10.col-lg-11.order-2.order-lg-1.mb-0
         p.mb-0 Desde la perspectiva del punto de venta, tanto los productos como los servicios deben gestionarse estratégicamente a través de herramientas como el <em>merchandising</em> visual, que busca seducir al cliente mediante la organización del espacio, la ambientación sensorial y la presentación adecuada de los elementos de la oferta (Editorial GG, s.&nbsp;f.). Esto cobra aún más relevancia cuando se trata de servicios, donde el entorno influye directamente en la percepción de calidad.
-      .col-2.col-lg-1.mb-3
+      .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
         img(src="@/assets/curso/temas/tema_1/img_3.svg", class="img-fluid")
    
     separador
@@ -54,9 +54,9 @@
       p.mb-5 Adicionalmente, existe una clasificación según la durabilidad. Los productos duraderos tienen un ciclo de vida prolongado, se utilizan en múltiples ocasiones y suelen requerir una inversión mayor, como sucede con los muebles o los vehículos. Los productos no duraderos, en cambio, son de consumo inmediato o rápido, como los alimentos perecederos o artículos de higiene personal.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-11.mb-3
+      .col-10.col-lg-11.order-2.order-lg-1.mb-0
         p.mb-0 Desde la perspectiva del punto de venta, tanto los productos como los servicios deben gestionarse estratégicamente a través de herramientas como el <em>merchandising</em> visual, que busca seducir al cliente mediante la organización del espacio, la ambientación sensorial y la presentación adecuada de los elementos de la oferta (Editorial GG, s.&nbsp;f.). Esto cobra aún más relevancia cuando se trata de servicios, donde el entorno influye directamente en la percepción de calidad.
-      .col-2.col-lg-1.mb-3
+      .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
         img(src="@/assets/curso/temas/tema_1/img_4_1.svg", class="img-fluid")
     
     h3(data-aos='zoom-in-right').mb-4
@@ -73,7 +73,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_8.svg')
-              .col-10.col-lg-10.mb-0
+              .col-10.col-lg-6.mb-0
                 h5.mb-3 Producto de consumo
                 p.mb-3 Bienes que se adquieren para uso personal y cotidiano.
                 p.mb-0 <b>Ejemplo:</b> zapatos, jabón, alimentos.

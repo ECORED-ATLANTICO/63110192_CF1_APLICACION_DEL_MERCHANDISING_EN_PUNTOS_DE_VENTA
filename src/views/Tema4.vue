@@ -12,6 +12,7 @@
         img(src='@/assets/curso/temas/tema_4/img_1.png')
       .bloque-texto-t__texto.color-secundario-20.col-10.mb-0
         p.mb-0 El <em>merchandising</em> visual es una disciplina dentro del <em>marketing</em> que se enfoca en la disposición física y estética de los productos en el punto de venta, con el fin de influir en la percepción y comportamiento del consumidor. A través del uso de elementos como el <em>layout</em>, el mobiliario, la iluminación, la ambientación y la señalética, se crea un entorno que favorece la experiencia de compra, estimula las emociones y promueve la decisión de compra. Según Editorial GG (2016), estos componentes deben estar alineados con la identidad de la marca y adaptados a las expectativas del público objetivo.
+
     separador
 
     .row.justify-content-center.align-items-center.mb-0     
@@ -19,6 +20,7 @@
         #t_4_1.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 4.1 <em>Layout</em> 
         .mb-0 
+    
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema_4/img_2.png')})`}"
@@ -31,7 +33,7 @@
         .titulo-sexto.color-tabla
             h5 Tabla 3. 
             |  Tipos de layout en <em>merchandising</em> visual
-        .tabla-b.mb-5
+        .tabla-a.mb-5
           table
             caption
               p <b>Fuente:</b> adaptada de Shopify, 2024.
@@ -72,27 +74,27 @@
                 td Ideal para espacios angostos. Combina pasillos diagonales para optimizar el flujo.
                 td Mejora la circulación en espacios estrechos y aprovecha rincones para exposición. 
                 td Librerías pequeñas o tiendas de ropa en espacios reducidos.
+
     separador
 
-  
     #t_4_2.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 4.2 Mobiliario 
     .mb-0 
 
     .row.justify-content-center.align-items-start.mb-3
-        .col-12.col-lg-4
-          figure.mb-5
-            img(src='@/assets/curso/temas/tema_4/img_3.png', class="img-fluid")
+      .col-12.col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema_4/img_3.png', class="img-fluid")
 
-        .col-12.col-lg-8.mb-1.mb-lg-1
-          p.mb-3 El mobiliario comercial cumple funciones de vitrinismo en cuanto a exhibición, almacenamiento y ambientación. Debe estar diseñado para resaltar los productos, facilitar su acceso y mantener la coherencia visual con la marca. Estanterías, vitrinas, góndolas y mostradores son ejemplos comunes. Un mobiliario bien seleccionado contribuye a la organización del espacio y mejora la visibilidad de los artículos (Kotler & Armstrong, 2021).
-          .tarjeta.color-secundario-20.p-3
-            .row.align-items-center
-              .col-9.col-lg-10
-                p.mb-0 El vitrinismo es una herramienta clave en el marketing visual que busca captar la atención del cliente desde el exterior del punto de venta. Uno de sus elementos principales es el diseño visual, que combina aspectos como colores, formas, estilos e iluminación para reflejar la identidad del negocio y atraer al público desde la primera mirada (González, 2019). Se debe tener en cuenta:
-              .col-3.col-lg-2
-                figure
-                  img(src='@/assets/curso/temas/tema_4/img_4.png', class="img-fluid")
+      .col-12.col-lg-8.mb-1.mb-lg-1
+        p.mb-3 El mobiliario comercial cumple funciones de vitrinismo en cuanto a exhibición, almacenamiento y ambientación. Debe estar diseñado para resaltar los productos, facilitar su acceso y mantener la coherencia visual con la marca. Estanterías, vitrinas, góndolas y mostradores son ejemplos comunes. Un mobiliario bien seleccionado contribuye a la organización del espacio y mejora la visibilidad de los artículos (Kotler & Armstrong, 2021).
+        .tarjeta.color-secundario-20.p-4
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-10.order-2.order-lg-1.mb-0
+              p.mb-0 El vitrinismo es una herramienta clave en el marketing visual que busca captar la atención del cliente desde el exterior del punto de venta. Uno de sus elementos principales es el diseño visual, que combina aspectos como colores, formas, estilos e iluminación para reflejar la identidad del negocio y atraer al público desde la primera mirada (González, 2019). Se debe tener en cuenta:
+            .col-4.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema_4/img_4.png', class="img-fluid")
     
     .row.justify-content-center.align-items-start.mb-5
       .col-12.col-lg-8.mb-5
@@ -170,7 +172,7 @@
         .titulo-sexto.color-tabla
           h5 Tabla 4. 
           |  Uso del color en el <em>merchandising</em> 
-        .tabla-b.mb-5
+        .tabla-a.mb-5
           table
             caption
               p <b>Fuente:</b> : adaptada de Solomon, M. R.,2018.

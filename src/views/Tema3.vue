@@ -165,23 +165,23 @@
           .tarjeta.tarjeta--fondo__slider.p-5.mb-0
             SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-0.order-2.order-lg-2.mb-0
+                .col-12.col-lg-12.mb-0
                   h5.mb-3 Visual
                   p.mb-3 Se enfoca en la estética y el impacto visual de los productos en el punto de venta. Busca atraer al cliente mediante una presentación armónica, ordenada y estratégica.
                   p.mb-3 <b>Ejemplo.</b> Exhibición piramidal de frutas con colores contrastantes, acompañada de buena iluminación.
 
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-10.order-2.order-lg-2.mb-0
+                .col-12.col-lg-12.mb-0
                   h5.mb-3 De seducción
                   p.mb-3 Utiliza estímulos sensoriales como aromas, sonidos y texturas, así como elementos emocionales, para influir en la decisión de compra del cliente.
                   p.mb-3 <b>Clientes recurrentes:</b> Ambientación musical suave con aromas agradables en una tienda de ropa de temporada.
 
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-10.order-2.order-lg-2.mb-0
+                .col-12.col-lg-12.mb-0
                   p.mb-3 <b>Ejemplo.</b> aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de <em>marketing</em> deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
 
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-10.order-2.order-lg-2.mb-0
+                .col-12.col-lg-12.mb-0
                   p.mb-3 <b>Clientes leales:</b> son clientes que, con el tiempo, han mantenido una elección constante por una marca o producto, reflejando fidelidad y generando un alto nivel de compras repetidas. Un ejemplo sería Starbucks, que ha cultivado una base de clientes muy leal gracias a su programa de recompensas y la calidad constante de sus productos.
 
       separador
@@ -272,38 +272,38 @@
         .col-12.col-lg-10
           PasosA.color-acento-contenido-20.mb-5(tipo="n")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-8.order-2.order-lg-1.mb-0
+              .col-12.col-lg-8.order-2.order-lg-1.mb-0.text-justify
                 h3.mb-3 Mayor rotación del producto
                 p.mb-0 El <em>merchandising</em> permite aumentar la rotación de productos al presentarlos de manera llamativa y estratégica. Esto incentiva una mayor frecuencia de compra y evita la acumulación de inventario, lo cual es clave para productos perecederos o de alta rotación. Acciones como promociones semanales o ubicaciones destacadas ayudan a lograr este efecto (Martínez Cruz, s. f.; Editorial GG, 2016).
-              .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_23.png', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-0
-                figure
-                  img(src='@/assets/curso/temas/tema_3/img_24.png', class="img-fluid")
-              .col-12.col-lg-8.mb-lg-0.mb-3
+              .col-12.col-lg-3.mb-lg-0.mb-3.d-flex
+                figure.d-flex.align-items-stretch.w-100.mb-0
+                  img(src='@/assets/curso/temas/tema_3/img_24.png', class="img-fluid h-100 w-100")
+              .col-12.col-lg-9.mb-lg-0.mb-3.text-justify
                 h3.mb-3 Fidelización del cliente
                 p.mb-0 Una experiencia de compra positiva, construida a través de estímulos visuales, sensoriales y emocionales, genera vínculos con el consumidor. El uso de ambientaciones temáticas, trato personalizado y espacios agradables promueve la recompra y fortalece la lealtad hacia la marca (Martínez Cruz, s. f.).
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-8.order-2.order-lg-1.mb-0
+              .col-12.col-lg-8.order-2.order-lg-1.mb-0.text-justify
                 h3.mb-3 Incremento de ventas por impulso
                 p.mb-0 El <em>merchandising</em> estimula las compras no planeadas al ubicar productos llamativos en zonas de paso o espera, como las cajas registradoras. Estos estímulos aprovechan momentos estratégicos para incentivar decisiones rápidas de compra, aumentando así el ticket promedio (Editorial GG, 2016).
-              .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_25.png', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-4.mb-lg-0.mb-3
+              .col-12.col-lg-4.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_26.png', class="img-fluid")
-              .col-12.col-lg-8.mb-0
+              .col-12.col-lg-8.mb-0.text-justify
                 h3.mb-3 Posicionamiento de marca
                 p.mb-0 Una presentación coherente con la identidad visual de la empresa (colores, logos, diseño y estilo) refuerza el posicionamiento en la mente del consumidor. La armonía entre la estética del punto de venta y los valores de la marca mejora su reconocimiento y recordación (Martínez Cruz, s. f.).
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-8.order-2.order-lg-1.mb-0
+              .col-12.col-lg-8.order-2.order-lg-1.mb-0.text-justify
                 h3.mb-3 Ventaja competitiva
                 p.mb-0 El <em>merchandising</em> bien ejecutado se convierte en un diferenciador clave frente a la competencia. Ofrecer experiencias únicas como degustaciones, demostraciones en vivo o ambientaciones inmersivas permite que el cliente perciba un mayor valor y prefiera ese punto de venta (Editorial GG, 2016). 
-              .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_27.png', class="img-fluid")
 </template>

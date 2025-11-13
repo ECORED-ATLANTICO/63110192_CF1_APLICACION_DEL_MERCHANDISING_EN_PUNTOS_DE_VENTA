@@ -107,11 +107,11 @@
 
         .col-12.col-lg-8.mb-1.mb-lg-1
           p.mb-3 La perfilación del cliente es esencial en la gestión comercial moderna, ya que permite identificar, clasificar y comprender a los consumidores con base en variables objetivas y subjetivas. Su utilidad radica en que ofrece a las organizaciones una visión clara sobre quién es su cliente, cómo actúa, qué espera y qué valor percibe en los productos o servicios ofrecidos. Esta comprensión estratégica es clave para diseñar acciones comerciales más precisas, eficientes y rentables.
-          .tarjeta.color-secundario-20.p-3
-            .row.align-items-center
-              .col-9.col-lg-10
+          .tarjeta.color-secundario-20.p-4
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.order-2.order-lg-1.mb-0
                 p.mb-0 En la práctica, el cliente no solo es el punto de partida de toda acción de mercadeo, sino también el objetivo final de cualquier esfuerzo empresarial. Cada idea, cada canal de distribución, cada promoción y cada innovación debe responder a una necesidad real del cliente. Sin embargo, asumir que todos los consumidores son iguales sería un error estratégico. La diversidad de perfiles obliga a profundizar en el conocimiento del cliente más allá de lo superficial, y es allí donde la perfilación cobra relevancia.
-              .col-3.col-lg-2
+              .col-4.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_12.png', class="img-fluid")
     
@@ -200,7 +200,7 @@
         .titulo-sexto.color-tabla
             h5 Tabla 2. 
             |  Segmentación de clientes
-        .tabla-b.mb-5
+        .tabla-a.mb-5
           table
             caption
               p <b>Fuente:</b> adaptada de Kotler, P., & Keller, K. L.,2016.
@@ -247,11 +247,11 @@
           img(src="@/assets/curso/temas/tema_2/img_23.png", class="img-fluid")
       .col-12.col-lg-8
         p.mb-2(data-aos="fade-left") La segmentación facilita a las empresas identificar a sus clientes clave, mientras adaptan sus ofertas y estrategias comunicacionales para satisfacer de manera más precisa las necesidades y deseos específicos de cada segmento. Esto aumenta la relevancia de las campañas, mejora la eficiencia de los recursos y fomenta una relación más estrecha con los consumidores. 
-          .tarjeta.color-secundario-20.p-3
-            .row.align-items-center
-              .col-9.col-lg-10
+          .tarjeta.color-secundario-20.p-4
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-10.order-2.order-lg-1.mb-0
                 p.mb-0 <b>Ejemplo en la práctica:</b> una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el fitness (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.
-              .col-3.col-lg-2
+              .col-4.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_24.svg', class="img-fluid")
 
@@ -271,45 +271,44 @@
       .col-12.col-lg-12.mb-3
         p.mb-3 Son las actitudes, percepciones, emociones y acciones que los clientes manifiestan durante su proceso de compra y su interacción con los productos, el entorno y las estrategias comerciales del punto de venta. Este comportamiento no es aleatorio, sino el resultado de la influencia de factores internos como la personalidad, las motivaciones, los valores, las expectativas y las experiencias previas; y factores externos, entre los que destacan el entorno físico del establecimiento, la disposición del producto, la atención recibida, las tendencias sociales y el contexto económico.
         p.mb-3 Entre las principales características tenemos:
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-4.mb-lg-0.mb-3
-        figure
-          img(src='@/assets/curso/temas/tema_2/img_25.png', class="img-fluid")
-      .col-12.col-lg-8.mb-0
-        .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
-            .tarjeta--blanca-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--1
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Percepción visual
-                .tarjeta--slider__content.text-center La disposición del producto, la iluminación, los colores y la señalización influyen en cómo el cliente interpreta el espacio y decide recorrerlo.
-            .tarjeta--blanca-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--2
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Actitudes y hábitos de consumo
-                .tarjeta--slider__content.text-center Cada cliente desarrolla patrones de compra que responden a su estilo de vida, experiencias previas y nivel de fidelidad hacia la marca.
-            .tarjeta--blanca-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--3
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Tiempo de permanencia y recorrido
-                .tarjeta--slider__content.text-center El comportamiento del consumidor dentro del punto de venta depende de su disponibilidad de tiempo y del atractivo que le genere la exhibición.
-            .tarjeta--blanca-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--4
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Factores sociales y culturales
-                .tarjeta--slider__content.text-center las referencias de grupo, la cultura de consumo y las tendencias sociales condicionan la decisión final.
-            .tarjeta--blanca-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--5
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Respuesta emocional
-                .tarjeta--slider__content.text-center Los estímulos sensoriales, como música, aroma o ambientación; influyen en la conexión emocional que el cliente desarrolla con el espacio y los productos.
-                  
+    .bg_img_8.mb-5
+      .row.justify-content-center.align-items-center.mb-5
+        .col-8.col-lg-4.mb-lg-0.mb-3
+          figure
+            img(src='@/assets/curso/temas/tema_2/img_25.png', class="img-fluid")
+        .col-12.col-lg-8.mb-0
+          .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
+            SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--1
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold Percepción visual
+                  .tarjeta--slider__content.text-center La disposición del producto, la iluminación, los colores y la señalización influyen en cómo el cliente interpreta el espacio y decide recorrerlo.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--2
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold Actitudes y hábitos de consumo
+                  .tarjeta--slider__content.text-center Cada cliente desarrolla patrones de compra que responden a su estilo de vida, experiencias previas y nivel de fidelidad hacia la marca.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--3
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold Tiempo de permanencia y recorrido
+                  .tarjeta--slider__content.text-center El comportamiento del consumidor dentro del punto de venta depende de su disponibilidad de tiempo y del atractivo que le genere la exhibición.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--4
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold Factores sociales y culturales
+                  .tarjeta--slider__content.text-center las referencias de grupo, la cultura de consumo y las tendencias sociales condicionan la decisión final.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--5
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold Respuesta emocional
+                  .tarjeta--slider__content.text-center Los estímulos sensoriales, como música, aroma o ambientación; influyen en la conexión emocional que el cliente desarrolla con el espacio y los productos.
 </template>
 
 <script>
