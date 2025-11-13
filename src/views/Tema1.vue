@@ -154,7 +154,7 @@
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             p.mb-3 <b>Tangibilidad e intangibilidad:</b> la tangibilidad es una de las principales ventajas de los productos. Este atributo permite que los bienes sean vistos, tocados, evaluados, medidos y comparados antes de ser adquiridos. Los productos físicos pueden probarse, fotografiarse, almacenarse y transportarse, lo cual facilita su comercialización a través de canales físicos y virtuales.
             p.mb-3 Por el contrario, los servicios son intangibles, lo que significa que no pueden ser percibidos físicamente antes de ser consumidos. El cliente no puede ver ni tocar un servicio de forma directa, lo cual representa un desafío para el <em>marketing</em>, ya que es necesario generar confianza a través de la reputación, la atención, las referencias y los elementos visuales del entorno (Kotler & Armstrong, 2021).
             
@@ -162,7 +162,7 @@
             figure
               img(src='@/assets/curso/temas/tema_1/img_17.png')
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             p.mb-3 <b>Producción y consumo:</b> en los productos, el proceso de producción se realiza de manera anticipada a su comercialización. Esto quiere decir que pueden fabricarse en masa, controlarse por estándares de calidad y almacenarse hasta que el cliente los requiera. Esta separación entre producción y consumo permite una mayor planificación operativa y logística.
             p.mb-3 En los servicios, en cambio, se da la inseparabilidad, ya que se producen y consumen de manera simultánea. Por ejemplo, un corte de cabello o una consulta médica solo ocurren cuando el cliente está presente. Esta condición implica que la calidad del servicio está estrechamente relacionada con el momento y el profesional que lo presta.
 
@@ -170,21 +170,21 @@
             figure
               img(src='@/assets/curso/temas/tema_1/img_18.png', class="img-fluid")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             p.mb-3 <b>Homogeneidad y variabilidad:</b> los productos suelen ser homogéneos, especialmente cuando provienen de procesos de producción estandarizados. Esto significa que un mismo modelo de producto tendrá las mismas características técnicas y visuales, garantizando una experiencia uniforme para todos los compradores.
             p.mb-3 En contraste, los servicios presentan una alta variabilidad, ya que su calidad puede depender de múltiples factores: la persona que lo ofrece, el estado de ánimo del cliente, el lugar donde se presta el servicio o incluso las condiciones externas. Esta variación obliga a implementar sistemas de control de calidad, protocolos de atención y capacitación continua del personal (Martínez Cruz, s.&nbsp;f.).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_19.png', class="img-fluid")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             p.mb-3 <b>Almacenamiento y perecibilidad:</b> los productos se pueden almacenar, es decir, conservar en inventario hasta el momento de su venta. Esta posibilidad permite regular la oferta, planificar campañas promocionales y responder a la demanda sin depender del tiempo real de producción.
             p.mb-3 Por el contrario, los servicios son perecederos, ya que no pueden guardarse ni reproducirse exactamente igual después de haber sido prestados. Un cupo de asesoría no utilizado se pierde, y una hora de consulta no agendada no puede recuperarse. Esta característica exige una gestión eficiente del tiempo, la capacidad y la programación de recursos humanos.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_20.png', class="img-fluid")
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             p.mb-3 <b>Propiedad y experiencia:</b> en la compra de un producto, se transfiere la propiedad del bien al cliente. El consumidor se convierte en dueño del objeto adquirido y puede usarlo, venderlo o desecharlo a su criterio.
             p.mb-3 En cambio, en los servicios no se transfiere propiedad alguna; el cliente accede a una experiencia o resultado durante un tiempo determinado. Por ejemplo, al pagar por una clase, no se obtiene un objeto, sino el conocimiento transmitido. Esta diferencia lleva a las empresas a enfocarse en crear experiencias memorables y valor agregado.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3

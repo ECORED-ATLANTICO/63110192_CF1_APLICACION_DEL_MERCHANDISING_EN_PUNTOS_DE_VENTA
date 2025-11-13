@@ -120,7 +120,7 @@
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-3
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Demográficas 
             p.mb-1 Esta dimensión abarca variables como edad, género, ingresos, nivel educativo u ocupación. Aunque es una de las formas más tradicionales de segmentar, sigue siendo fundamental, ya que permite identificar patrones de consumo asociados a etapas de vida, nivel adquisitivo y rol en la sociedad. Por ejemplo, un joven profesional con alto nivel educativo y buen salario probablemente tendrá intereses y comportamientos distintos a los de una persona jubilada en zona rural. 
             p.mb-3 (Kotler & Keller, 2016).
@@ -129,7 +129,7 @@
               img(src='@/assets/curso/temas/tema_2/img_14.png')
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Geográficas 
             p.mb-3 El lugar donde vive o se mueve el cliente influye directamente en sus decisiones de compra. La urbanización, la cultura local, el clima y la accesibilidad a productos y servicios modifican el comportamiento del consumidor. Un cliente urbano tendrá más exposición a nuevas tecnologías, mientras que uno rural priorizará la funcionalidad y durabilidad de los productos.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -137,7 +137,7 @@
               img(src='@/assets/curso/temas/tema_2/img_15.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Psicográficas 
             p.mb-1 Esta categoría profundiza en los aspectos subjetivos del consumidor: estilo de vida, valores, intereses, creencias y personalidad. Identificar estas variables permite diseñar estrategias que conecten emocionalmente con el cliente. Por ejemplo, una marca que promueve la sostenibilidad ambiental se alinea con clientes que valoran el consumo responsable, como ocurre con marcas como Patagonia. 
             p.mb-3 (Armstrong & Kotler, 2017).
@@ -147,7 +147,7 @@
               img(src='@/assets/curso/temas/tema_2/img_16.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Conductuales 
             p.mb-1 Analiza el comportamiento del cliente frente al producto o servicio: qué lo motiva a comprar, cómo usa el producto, si lo recomienda, y qué nivel de fidelidad mantiene. Esta dimensión es clave para determinar la efectividad de las estrategias de retención y recompra. Por ejemplo, los clientes recurrentes de Amazon valoran la eficiencia, mientras que otros consumidores son sensibles al precio y a las promociones constantes. 
             p.mb-3 (Churchill & Iacobucci, 2010).

@@ -85,7 +85,7 @@
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Atracción 
             p.mb-3 Llamar la atención del cliente desde la entrada o vitrina. Utiliza elementos visuales como colores, movimiento y contraste. Un ejemplo claro de esto es la exhibición de productos destacados en vitrinas iluminadas, que generan un primer impacto visual positivo en el comprador (Editorial GG, 2016). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -93,7 +93,7 @@
               img(src='@/assets/curso/temas/tema_3/img_6.png')
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Orden:  
             p.mb-3 Distribución clara y lógica de los productos. Facilita la navegación del cliente en el punto de venta, guiando su recorrido y mejorando la experiencia de compra. Por ejemplo, se aplica cuando hay zonas bien delimitadas para lácteos, carnicería y vegetales en un supermercado (Martínez, 2017).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -101,7 +101,7 @@
               img(src='@/assets/curso/temas/tema_3/img_7.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Renovación: 
             p.mb-3 cambios periódicos en las exhibiciones, promociones y ambientación del espacio comercial. Con ello se evita que el cliente frecuente se aburra o pierda interés. Un ejemplo sería una temática especial para el regreso a clases con exhibidores nuevos y materiales escolares llamativos (Martínez Cruz, s. f.). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -109,7 +109,7 @@
               img(src='@/assets/curso/temas/tema_3/img_8.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Coherencia: 
             p.mb-3 presentación alineada con la identidad de la marca y las expectativas del segmento objetivo. Esto refuerza el mensaje de la empresa y la fidelización del cliente. Por ejemplo, una tienda de productos ecológicos puede utilizar mobiliario elaborado con madera reciclada para comunicar compromiso ambiental (Kotler & Armstrong, 2021). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -117,7 +117,7 @@
               img(src='@/assets/curso/temas/tema_3/img_9.png', class="img-fluid")
         
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Experiencia: 
             p.mb-3 integrar los sentidos del cliente (vista, olfato, tacto y oído) para crear un entorno de compra agradable y memorable. Esto genera emociones positivas y mayor recordación de marca. Un ejemplo efectivo es la reproducción de música suave y el uso de aromas como el pan recién horneado en una panadería (Editorial GG, 2016; Martínez Cruz, s. f.).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -204,35 +204,35 @@
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Aumentar el tiempo al interior del punto de venta
             p.mb-0 Al prolongar el tiempo de permanencia del cliente, se aumenta la probabilidad de que vea más productos y realice compras adicionales.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_16.png')
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Mejorar la presentación del producto
             p.mb-0 El uso de exhibiciones limpias, organizadas y atractivas visualmente resalta los beneficios del producto, generando mayor interés y deseo de compra.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_17.png')
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Facilitar la rotación del inventario
             p.mb-0 Mediante una disposición adecuada y promociones dirigidas, se favorece la venta de productos rezagados o con menor rotación, optimizando el inventario.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_18.png')
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Reforzar la imagen de marca
             p.mb-0 El refuerzo de la marca y la coherencia visual contribuyen a fortalecer el reconocimiento y la percepción positiva de la marca.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_19.png')
         .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Orientar al cliente en su trayectoria en proceso de compra
             p.mb-0 La señalización, distribución del espacio y categorías claras ayudan al cliente a encontrar lo que busca, haciendo más eficiente y satisfactoria su experiencia de compra. 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
