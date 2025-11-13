@@ -206,7 +206,7 @@
               p <b>Fuente:</b> adaptada de Kotler, P., & Keller, K. L.,2016.
             thead
               tr
-                th.col-5 Segmento
+                th Segmento
                 th Demografía
                 th Psicografía
                 th Geografía

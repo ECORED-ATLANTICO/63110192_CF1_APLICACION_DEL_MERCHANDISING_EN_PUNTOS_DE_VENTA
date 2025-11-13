@@ -204,7 +204,7 @@
                 p <b>Fuente:</b> adaptada de Kotler y Armstrong, 2021 y Martínez (s.&nbsp;f.), 2016.
               thead
                 tr
-                  th.col-3 Característica
+                  th Característica
                   th Productos (bienes tangibles)
                   th Servicios (bienes intangibles)
               tbody

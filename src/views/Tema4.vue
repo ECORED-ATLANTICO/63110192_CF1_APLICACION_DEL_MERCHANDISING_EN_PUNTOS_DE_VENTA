@@ -64,7 +64,7 @@
                 td Pasillo central con conexiones laterales. Combina eficiencia con visibilidad del producto.
                 td Facilita la navegación y destaca productos estratégicos a lo largo del eje. 
                 td Tiendas de tecnología, droguerías, locales tipo <em>minimarket</em>.
-              tr.bg-table-01
+              tr
                 td Angular / Geométrico
                 td Usa formas diagonales o no convencionales. Aporta estética visual y recorrido original.
                 td Aumenta el atractivo visual y da un carácter exclusivo al espacio comercial. 
@@ -188,7 +188,7 @@
                 td Estimula, crea urgencia, llama la atención.
                 td Aumenta el deseo de compra, útil en promociones.
                 td Señales de descuento, ofertas, zonas de impulso.
-              tr
+              tr.bg-table-01
                 td Azul
                 td Transmite confianza, tranquilidad y profesionalismo.
                 td Genera sensación de seguridad, ideal para fidelización.
@@ -198,7 +198,7 @@
                 td Alegre, energético, estimula la atención visual.
                 td Aumenta la visibilidad y favorece la retención visual.
                 td Áreas infantiles, anuncios creativos.
-              tr
+              tr.bg-table-01
                 td Verde
                 td Asociado con naturaleza, frescura y bienestar.
                 td Ideal para productos ecológicos o saludables.
@@ -208,7 +208,7 @@
                 td Entusiasmo, creatividad, dinamismo.
                 td Estimula la acción y el consumo impulsivo.
                 td Tiendas deportivas, accesorios.
-              tr
+              tr.bg-table-01
                 td Negro
                 td Elegancia, sofisticación, simplicidad.
                 td Transmite exclusividad y lujo.
@@ -218,7 +218,7 @@
                 td Limpieza, pureza, simplicidad.
                 td Genera sensación de orden y amplitud.
                 td Farmacias, tiendas de tecnología, vitrinas minimalistas.
-              tr
+              tr.bg-table-01
                 td Rosa
                 td Sensibilidad, ternura, feminidad.
                 td Crea un ambiente acogedor, usado en productos dirigidos a mujeres.
