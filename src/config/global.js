@@ -311,6 +311,31 @@ export default {
       significado:
         'Acciones y estrategias que buscan incentivar la compra mediante descuentos, ofertas o estímulos.',
     },
+    {
+      termino: 'Punto de venta',
+      significado:
+        'Espacio físico o digital donde el cliente interactúa con el producto y se lleva a cabo el proceso de compra.',
+    },
+    {
+      termino: 'Rotulación',
+      significado:
+        'Sistema de señalización visual que incluye letreros, etiquetas y carteles informativos para orientar y comunicar al cliente.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'Proceso de dividir el mercado en grupos de consumidores con características o necesidades similares para personalizar las estrategias de venta.',
+    },
+    {
+      termino: 'Servicio',
+      significado:
+        'Actividad intangible que satisface una necesidad del cliente, sin implicar la entrega de un bien físico.',
+    },
+    {
+      termino: 'Tipología de cliente',
+      significado:
+        'Clasificación de los clientes según su comportamiento, emociones, frecuencia de compra u otros criterios relevantes para el negocio.',
+    },
   ],
   referencias: [
     {

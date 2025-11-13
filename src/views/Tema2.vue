@@ -213,26 +213,26 @@
                 th Conducta de Compra
             tbody
               tr
-                td.h5 Jóvenes Adultos
-                td Edad: 18-30 años, solteros.
+                td.h5 Jóvenes adultos.
+                td Edad: 18 - 30 años, solteros.
                 td Estilo de vida activo, valoran la tecnología.
                 td Zonas urbanas.
                 td Compradores frecuentes de tecnología.
               tr.bg-table-01
-                td.h5 Familias
-                td Edad: 30-45 años, casados.
+                td.h5 Familias.
+                td Edad: 30 - 45 años, casados.
                 td Buscan estabilidad y comodidad familiar.
                 td Zonas suburbanas y rurales.
                 td Compradores regulares de productos para el hogar.
               tr
-                td.h5 Lujosos
-                td Edad: 35-55 años, ingresos altos.
+                td.h5 Lujosos.
+                td Edad: 35 - 55 años, ingresos altos.
                 td Estilo de vida exclusivo, aprecian el lujo.
                 td Ciudades grandes.
                 td Compradores esporádicos de productos de alta gama.
               tr.bg-table-01
-                td.h5 Ecológicos
-                td Edad: 25-40 años, solteros.
+                td.h5 Ecológicos.
+                td Edad: 25 - 40 años, solteros.
                 td Preocupación por el medio ambiente. 
                 td Áreas con conciencia ecológica.
                 td Compradores frecuentes de productos orgánicos.

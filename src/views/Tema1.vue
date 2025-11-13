@@ -103,7 +103,7 @@
               .col-10.col-lg-8.mb-0
                 h5.mb-3 Producto no duradero
                 p.mb-3 Bienes de consumo rápido o inmediato. 
-                p.mb-3 <b>Ejemplo:</b> yogurt, servilletas, bebidas.
+                p.mb-3 <b>Ejemplo:</b> yogur, servilletas, bebidas.
 
             .row.justify-content-center.align-items-center
               .col-6.col-lg-2.mb-lg-0.mb-5
@@ -112,7 +112,7 @@
               .col-10.col-lg-7.mb-
                 h5.mb-3 Servicio personal
                 p.mb-3 Atenciones orientadas al bienestar individual. 
-                p.mb-3 <b>Ejemplo:</b> corte de cabello, manicure.
+                p.mb-3 <b>Ejemplo:</b> corte de cabello, manicura.
             
             .row.justify-content-center.align-items-center
               .col-6.col-lg-2.mb-lg-0.mb-5

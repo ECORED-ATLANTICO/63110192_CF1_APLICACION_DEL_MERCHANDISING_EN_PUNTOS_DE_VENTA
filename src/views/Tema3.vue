@@ -36,7 +36,7 @@
         #t_3_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 3.2 Evolución 
         .mb-0 
-    p.mb-3 El <em>merchandising</em> ha evolucionado desde una simple organización de productos en estanterías hasta convertirse en una estrategia compleja que integra el comportamiento del consumidor, el neuromarketing y el uso de tecnologías interactivas (Editorial GG, 2016).
+    p.mb-3 El <em>merchandising</em> ha evolucionado desde una simple organización de productos en estanterías hasta convertirse en una estrategia compleja que integra el comportamiento del consumidor, el <em>neuromarketing</em> y el uso de tecnologías interactivas (Editorial GG, 2016).
 
     h3(data-aos='zoom-in-right').mb-5
       span.label-title.label-title--2 Etapas de evolución del &nbsp;<em>merchandising</em>
@@ -227,7 +227,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-2
             h5.mb-3 Reforzar la imagen de marca
-            p.mb-0 y la coherencia visual contribuyen a fortalecer el reconocimiento y la percepción positiva de la marca.
+            p.mb-0 El refuerzo de la marca y la coherencia visual contribuyen a fortalecer el reconocimiento y la percepción positiva de la marca.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_19.png')
