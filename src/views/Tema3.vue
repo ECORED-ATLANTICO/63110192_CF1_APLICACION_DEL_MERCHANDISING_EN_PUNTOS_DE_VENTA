@@ -280,8 +280,8 @@
                   img(src='@/assets/curso/temas/tema_3/img_23.png', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-3.mb-lg-0.mb-3.d-flex
-                figure.d-flex.align-items-stretch.w-100.mb-0
-                  img(src='@/assets/curso/temas/tema_3/img_24.png', class="img-fluid h-100 w-100")
+                figure.d-flex.align-items-stretch.w-100.mb-3
+                  img(src='@/assets/curso/temas/tema_3/img_24.png', class="img-fluid")
               .col-12.col-lg-9.mb-lg-0.mb-3.text-justify
                 h3.mb-3 Fidelización del cliente
                 p.mb-0 Una experiencia de compra positiva, construida a través de estímulos visuales, sensoriales y emocionales, genera vínculos con el consumidor. El uso de ambientaciones temáticas, trato personalizado y espacios agradables promueve la recompra y fortalece la lealtad hacia la marca (Martínez Cruz, s. f.).

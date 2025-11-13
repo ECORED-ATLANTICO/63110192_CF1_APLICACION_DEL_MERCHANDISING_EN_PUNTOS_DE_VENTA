@@ -73,7 +73,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_8.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-8.mb-0
                 h5.mb-3 Producto de consumo
                 p.mb-3 Bienes que se adquieren para uso personal y cotidiano.
                 p.mb-0 <b>Ejemplo:</b> zapatos, jabón, alimentos.
@@ -82,7 +82,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_9.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-8.mb-0
                 h5.mb-3 Producto industrial
                 p.mb-3 Bienes utilizados en procesos productivos o comerciales.
                 p.mb-3 <b>Ejemplo:</b> maquinaria, herramientas, acero.
@@ -91,7 +91,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_10.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-8.mb-0
                 h5.mb-3 Producto duradero
                 p.mb-3 Bienes de larga vida útil, diseñados para múltiples usos.
                 p.mb-3 <b>Ejemplo:</b> lavadora, televisor, muebles.
@@ -100,7 +100,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-8.mb-0
                 h5.mb-3 Producto no duradero
                 p.mb-3 Bienes de consumo rápido o inmediato. 
                 p.mb-3 <b>Ejemplo:</b> yogurt, servilletas, bebidas.
