@@ -166,11 +166,10 @@
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_10.png', class="img-fluid")
-    
-    .row.justify-content-center.align-items-center.mb-5.mt-5
-      .col-12.col-lg-10 
-        .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-          p.mb-2 El uso adecuado del color en los espacios comerciales no solo atrae la atención del cliente, sino que también puede mejorar la experiencia de compra, incrementar el tiempo de permanencia en el punto de venta y favorecer la fidelización. Según Kotler y Armstrong (2018), el color, al igual que otros estímulos visuales, tiene un impacto significativo en la percepción del consumidor y en sus decisiones dentro del entorno de compra. A continuación, se presenta una tabla con los principales colores utilizados en <em>merchandising</em>, su impacto psicológico, beneficios y aplicaciones más comunes.
+        .row.justify-content-center.align-items-center.mb-3.mt-2
+          .col-12.col-lg-11 
+            .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
+              p.mb-2 El uso adecuado del color en los espacios comerciales no solo atrae la atención del cliente, sino que también puede mejorar la experiencia de compra, incrementar el tiempo de permanencia en el punto de venta y favorecer la fidelización. Según Kotler y Armstrong (2018), el color, al igual que otros estímulos visuales, tiene un impacto significativo en la percepción del consumidor y en sus decisiones dentro del entorno de compra. A continuación, se presenta una tabla con los principales colores utilizados en <em>merchandising</em>, su impacto psicológico, beneficios y aplicaciones más comunes.
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
