@@ -185,8 +185,10 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 La segmentación de clientes es una herramienta esencial en <em>marketing</em>, que implica descomponer un mercado amplio y variado en segmentos más pequeños y homogéneos, cuyos integrantes comparten atributos, necesidades y comportamientos comunes, lo que permite una aproximación más precisa y efectiva a cada grupo. Al identificar estos segmentos, las empresas pueden desarrollar enfoques más precisos y personalizados que incrementen la efectividad de sus campañas y el rendimiento de sus productos o servicios.
 
-    h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--3 Criterios para la segmentación de clientes
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Criterios para la segmentación de clientes
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-12.mb-2
@@ -233,10 +235,11 @@
                 td Preocupación por el medio ambiente. 
                 td Áreas con conciencia ecológica.
                 td Compradores frecuentes de productos orgánicos.
-             
 
-    h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--1 Importancia de la Segmentación
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Importancia de la Segmentación
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")

@@ -255,8 +255,10 @@
           .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
             p.mb-2 Se recomienda revisar los siguientes videos, los cuales cual aportaran conocimientos relevantes y reforzará contenido de relacionado con el tema <em>merchandising</em> visual: 
     
-    h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--1 Visual &nbsp;<em>merchandising</em>
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Visual &nbsp;<em>merchandising</em>
     
     figure.mb-5
       .video.mb-2

@@ -38,8 +38,10 @@
         .mb-0 
     p.mb-3 El <em>merchandising</em> ha evolucionado desde una simple organización de productos en estanterías hasta convertirse en una estrategia compleja que integra el comportamiento del consumidor, el <em>neuromarketing</em> y el uso de tecnologías interactivas (Editorial GG, 2016).
 
-    h3(data-aos='zoom-in-right').mb-5
-      span.label-title.label-title--2 Etapas de evolución del &nbsp;<em>merchandising</em>
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Etapas de evolución del &nbsp;<em>merchandising</em>
 
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-6.col-xl-4.mb-4
@@ -154,8 +156,10 @@
           p.mb-0 Los diferentes tipos de <em>merchandising</em> responden a distintas estrategias comerciales según el tipo de producto, el canal de venta y los objetivos del punto de venta. Conocer estas tipologías permite seleccionar y aplicar la más adecuada según las necesidades del negocio, mejorando la experiencia del cliente y optimizando los resultados comerciales. A continuación, se describen los principales tipos de <em>merchandising</em>, sus características y un ejemplo representativo de su aplicación:
     
     .bg_img_5.mb-5
-      h3(data-aos='zoom-in-right').mb-5
-        span.label-title.label-title--1 Tipos de &nbsp;<em>merchandising</em>
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Tipos de &nbsp;<em>merchandising</em>
 
       .row.justify-content-center.align-items-start.mb-5
         .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
@@ -203,14 +207,16 @@
           .mb-0 
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-11.mb-3
+        .col-10.col-lg-11.order-2.order-lg-1.mb-3
           p.mb-0 El <em>merchandising</em> es una herramienta estratégica que busca aumentar la rentabilidad del punto de venta mediante la adecuada presentación del producto y el diseño de experiencias atractivas para el consumidor. Su enfoque no solo es visual, sino también sensorial, psicológico y comercial, por lo que sus objetivos deben ser definidos con precisión para generar impacto en los resultados del negocio (Chebat & Morrin, 2007).
-        .col-2.col-lg-1.mb-3
+        .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
           img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid")
 
-      h3(data-aos='zoom-in-right').mb-5
-        span.label-title.label-title--1 Objetivos de &nbsp;<em>merchandising</em>
-    
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Objetivos de &nbsp;<em>merchandising</em>
+
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
         .row.justify-content-center.align-items-center

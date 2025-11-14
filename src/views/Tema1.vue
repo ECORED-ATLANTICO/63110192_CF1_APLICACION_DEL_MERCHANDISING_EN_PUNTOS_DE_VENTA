@@ -59,8 +59,10 @@
       .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
         img(src="@/assets/curso/temas/tema_1/img_4_1.svg", class="img-fluid")
     
-    h3(data-aos='zoom-in-right').mb-4
-      span.label-title.label-title--1 Tipos de productos y servicios
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
+        h3.titulo-con-imagen__texto Tipos de productos y servicios
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
@@ -73,7 +75,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_8.svg')
-              .col-10.col-lg-8.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Producto de consumo
                 p.mb-3 Bienes que se adquieren para uso personal y cotidiano.
                 p.mb-0 <b>Ejemplo:</b> zapatos, jabón, alimentos.
@@ -82,7 +84,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_9.svg')
-              .col-10.col-lg-8.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Producto industrial
                 p.mb-3 Bienes utilizados en procesos productivos o comerciales.
                 p.mb-3 <b>Ejemplo:</b> maquinaria, herramientas, acero.
@@ -91,7 +93,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_10.svg')
-              .col-10.col-lg-8.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Producto duradero
                 p.mb-3 Bienes de larga vida útil, diseñados para múltiples usos.
                 p.mb-3 <b>Ejemplo:</b> lavadora, televisor, muebles.
@@ -100,7 +102,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11.svg')
-              .col-10.col-lg-8.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Producto no duradero
                 p.mb-3 Bienes de consumo rápido o inmediato. 
                 p.mb-3 <b>Ejemplo:</b> yogur, servilletas, bebidas.
@@ -109,7 +111,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_12.svg')
-              .col-10.col-lg-7.mb-
+              .col-10.col-lg-10.mb-
                 h5.mb-3 Servicio personal
                 p.mb-3 Atenciones orientadas al bienestar individual. 
                 p.mb-3 <b>Ejemplo:</b> corte de cabello, manicura.
@@ -118,7 +120,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_13.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Servicio profesional
                 p.mb-3 Prestaciones que requieren formación especializada.
                 p.mb-3 <b>Ejemplo:</b> auditoría contable, asesoría legal.
@@ -127,7 +129,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_14.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Servicio público
                 p.mb-3 Ofrecidos por el Estado o entidades autorizadas.
                 p.mb-3 <b>Ejemplo:</b> transporte público, seguridad social.
@@ -136,7 +138,7 @@
               .col-6.col-lg-2.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_15.svg')
-              .col-10.col-lg-6.mb-0
+              .col-10.col-lg-10.mb-0
                 h5.mb-3 Servicio comercial
                 p.mb-3 Servicios prestados por empresas privadas en el ámbito de ventas.
                 p.mb-3 <b>Ejemplo:</b> atención al cliente, entregas.
