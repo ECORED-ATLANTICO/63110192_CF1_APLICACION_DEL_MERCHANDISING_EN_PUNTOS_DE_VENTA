@@ -232,16 +232,20 @@ figcaption
   color: $color-sistema-a
   background-color: $color-terciario-10
 
-// factores-slider custom-slider
 .factores-slider, .custom-slider
   &__icon 
     max-height: 93px
+    @media (max-width: 768px)
+      max-height: 70px
+  
   .h-95
     height: 90% !important
+  
   .slyder-f
     align-items: center
     justify-content: center
     gap: 0
+  
   .slyder-f__btn
     background-color: $color-acento-botones
     color: $white !important
@@ -253,27 +257,47 @@ figcaption
     transition: transform 0.3s
     z-index: 100
     
+    @media (max-width: 768px)
+      height: 35px
+      width: 35px
+      min-width: 35px
+    
     &:hover
       transform: scale(1.1)
+    
     .fa-chevron-left, .fa-chevron-right
       font-size: 1.5rem
+      @media (max-width: 768px)
+        font-size: 1.2rem
+    
     &.ps-3
       margin-left: 7px
       @media (max-width: 1024px)
         margin-left: 7px
+      @media (max-width: 768px)
+        margin-left: 0
+    
     &.pe-3
       margin-right: 7px
       @media (max-width: 1024px)
         margin-right: 7px
+      @media (max-width: 768px)
+        margin-right: 0
+  
   &--color-fondo-1
     &__icon 
       max-height: 93px
+      @media (max-width: 768px)
+        max-height: 70px
+    
     .h-95
       height: 95% !important
+    
     .slyder-f
       align-items: center
       justify-content: center
       gap: 0
+    
     .slyder-f__btn
       background-color: $color-primario !important
       color: $white !important
@@ -283,21 +307,35 @@ figcaption
       border-radius: 50%
       padding: 0 !important
       transition: transform 0.3s
+      
+      @media (max-width: 768px)
+        height: 35px
+        width: 35px
+        min-width: 35px
+      
       &:hover
         transform: scale(1.1)
+      
       .fa-chevron-left, .fa-chevron-right
         font-size: 1.5rem
+        @media (max-width: 768px)
+          font-size: 1.2rem
+      
       &.ps-3
         margin-left: 7px
         @media (max-width: 1024px)
           margin-left: 7px
+        @media (max-width: 768px)
+          margin-left: 0
+      
       &.pe-3
         margin-right: 7px
         @media (max-width: 1024px)
           margin-right: 7px
+        @media (max-width: 768px)
+          margin-right: 0
 
 //bgr
-
 .label-title
   font-size: 1.25rem
   font-weight: bold
@@ -305,12 +343,16 @@ figcaption
   position: relative
   display: flex 
   align-items: center 
-  padding: 10px 5px 15px 60px
+  padding: 0
   background-repeat: no-repeat
   background-position: left center
-  background-size: contain
+  background-size: auto 100%
   line-height: 1.3
-  min-height: 55px 
+  min-height: 55px
+  width: 100%
+  justify-content: flex-start
+  text-align: left
+  padding-left: 60px
 
   &--1
     background-image: url('../assets/curso/temas/tema_1/img_5.svg')
@@ -318,6 +360,22 @@ figcaption
     background-image: url('../assets/curso/temas/tema_2/img_21.svg')
   &--3
     background-image: url('../assets/curso/temas/tema_2/img_22.svg')
+
+  // Ajustes para pantallas pequeñas
+  @media (max-width: 768px)
+    font-size: 1rem
+    min-height: 45px
+    padding-left: 50px
+
+  @media (max-width: 576px)
+    font-size: 0.875rem
+    min-height: 40px
+    padding-left: 45px
+
+  @media (max-width: 400px)
+    font-size: 0.75rem
+    min-height: 35px
+    padding-left: 40px
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt
