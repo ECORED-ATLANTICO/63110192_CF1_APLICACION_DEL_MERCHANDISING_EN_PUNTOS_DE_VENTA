@@ -122,8 +122,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Demográficas 
-            p.mb-1 Esta dimensión abarca variables como edad, género, ingresos, nivel educativo u ocupación. Aunque es una de las formas más tradicionales de segmentar, sigue siendo fundamental, ya que permite identificar patrones de consumo asociados a etapas de vida, nivel adquisitivo y rol en la sociedad. Por ejemplo, un joven profesional con alto nivel educativo y buen salario probablemente tendrá intereses y comportamientos distintos a los de una persona jubilada en zona rural. 
-            p.mb-3 (Kotler & Keller, 2016).
+            p.mb-3 Esta dimensión abarca variables como edad, género, ingresos, nivel educativo u ocupación. Aunque es una de las formas más tradicionales de segmentar, sigue siendo fundamental, ya que permite identificar patrones de consumo asociados a etapas de vida, nivel adquisitivo y rol en la sociedad. Por ejemplo, un joven profesional con alto nivel educativo y buen salario probablemente tendrá intereses y comportamientos distintos a los de una persona jubilada en zona rural. (Kotler & Keller, 2016).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_14.png')
@@ -139,8 +138,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Psicográficas 
-            p.mb-1 Esta categoría profundiza en los aspectos subjetivos del consumidor: estilo de vida, valores, intereses, creencias y personalidad. Identificar estas variables permite diseñar estrategias que conecten emocionalmente con el cliente. Por ejemplo, una marca que promueve la sostenibilidad ambiental se alinea con clientes que valoran el consumo responsable, como ocurre con marcas como Patagonia. 
-            p.mb-3 (Armstrong & Kotler, 2017).
+            p.mb-3 Esta categoría profundiza en los aspectos subjetivos del consumidor: estilo de vida, valores, intereses, creencias y personalidad. Identificar estas variables permite diseñar estrategias que conecten emocionalmente con el cliente. Por ejemplo, una marca que promueve la sostenibilidad ambiental se alinea con clientes que valoran el consumo responsable, como ocurre con marcas como Patagonia. (Armstrong & Kotler, 2017).
 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
@@ -149,8 +147,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Conductuales 
-            p.mb-1 Analiza el comportamiento del cliente frente al producto o servicio: qué lo motiva a comprar, cómo usa el producto, si lo recomienda, y qué nivel de fidelidad mantiene. Esta dimensión es clave para determinar la efectividad de las estrategias de retención y recompra. Por ejemplo, los clientes recurrentes de Amazon valoran la eficiencia, mientras que otros consumidores son sensibles al precio y a las promociones constantes. 
-            p.mb-3 (Churchill & Iacobucci, 2010).
+            p.mb-3 Analiza el comportamiento del cliente frente al producto o servicio: qué lo motiva a comprar, cómo usa el producto, si lo recomienda, y qué nivel de fidelidad mantiene. Esta dimensión es clave para determinar la efectividad de las estrategias de retención y recompra. Por ejemplo, los clientes recurrentes de Amazon valoran la eficiencia, mientras que otros consumidores son sensibles al precio y a las promociones constantes. (Churchill & Iacobucci, 2010).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_17.png', class="img-fluid")

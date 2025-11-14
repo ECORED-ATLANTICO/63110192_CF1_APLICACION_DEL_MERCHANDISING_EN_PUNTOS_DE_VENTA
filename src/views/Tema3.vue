@@ -50,7 +50,7 @@
             .crd_hover_txt--body.color-terciario-20.p-4
               h5.mb-4.text-center Tradicional
               p.mb-2.text-center  Enfocada en el orden del producto, su visibilidad y accesibilidad. Se basa en la ubicación estratégica dentro del local.
-              p.mb-2.text-center  <b>Ejemplo.</b> Estanterías organizadas por categoría y a la altura de los ojos.
+              p.mb-2.text-center  <b>Ejemplo:</b> Estanterías organizadas por categoría y a la altura de los ojos.
 
         .col-12.col-md-6.col-xl-4.mb-4
           .crd_hover_txt.rounded-3(data-aos="flip-left")
@@ -60,7 +60,7 @@
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Moderno
               p.mb-2.text-center Integra conceptos de <em>marketing</em> visual, diseño de ambientes, y promoción de marca. Inicia la incorporación de tecnología básica.
-              p.mb-2.text-center <b>Ejemplo.</b> Mobiliario con diseño atractivo, iluminación dirigida y vitrinas temáticas.
+              p.mb-2.text-center <b>Ejemplo:</b> Mobiliario con diseño atractivo, iluminación dirigida y vitrinas temáticas.
 
         .col-12.col-md-6.col-xl-4.mb-4
           .crd_hover_txt.rounded-3(data-aos="flip-left")
@@ -70,7 +70,7 @@
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Digital
               p.mb-2.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, big data y experiencia personalizada.
-              p.mb-2.text-center <b>Ejemplo.</b> Kioscos interactivos, apps para escanear productos 
+              p.mb-2.text-center <b>Ejemplo:</b> Kioscos interactivos, apps para escanear productos 
 
     separador
 
@@ -86,7 +86,7 @@
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
-            h5.mb-3 Atracción 
+            h5.mb-3 Atracción
             p.mb-3 Llamar la atención del cliente desde la entrada o vitrina. Utiliza elementos visuales como colores, movimiento y contraste. Un ejemplo claro de esto es la exhibición de productos destacados en vitrinas iluminadas, que generan un primer impacto visual positivo en el comprador (Editorial GG, 2016). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
@@ -94,7 +94,7 @@
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
-            h5.mb-3 Orden:  
+            h5.mb-3 Orden  
             p.mb-3 Distribución clara y lógica de los productos. Facilita la navegación del cliente en el punto de venta, guiando su recorrido y mejorando la experiencia de compra. Por ejemplo, se aplica cuando hay zonas bien delimitadas para lácteos, carnicería y vegetales en un supermercado (Martínez, 2017).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
@@ -102,24 +102,24 @@
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
-            h5.mb-3 Renovación: 
-            p.mb-3 cambios periódicos en las exhibiciones, promociones y ambientación del espacio comercial. Con ello se evita que el cliente frecuente se aburra o pierda interés. Un ejemplo sería una temática especial para el regreso a clases con exhibidores nuevos y materiales escolares llamativos (Martínez Cruz, s. f.). 
+            h5.mb-3 Renovación 
+            p.mb-3 Cambios periódicos en las exhibiciones, promociones y ambientación del espacio comercial. Con ello se evita que el cliente frecuente se aburra o pierda interés. Un ejemplo sería una temática especial para el regreso a clases con exhibidores nuevos y materiales escolares llamativos (Martínez Cruz, s. f.). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_8.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
-            h5.mb-3 Coherencia: 
-            p.mb-3 presentación alineada con la identidad de la marca y las expectativas del segmento objetivo. Esto refuerza el mensaje de la empresa y la fidelización del cliente. Por ejemplo, una tienda de productos ecológicos puede utilizar mobiliario elaborado con madera reciclada para comunicar compromiso ambiental (Kotler & Armstrong, 2021). 
+            h5.mb-3 Coherencia 
+            p.mb-3 Presentación alineada con la identidad de la marca y las expectativas del segmento objetivo. Esto refuerza el mensaje de la empresa y la fidelización del cliente. Por ejemplo, una tienda de productos ecológicos puede utilizar mobiliario elaborado con madera reciclada para comunicar compromiso ambiental (Kotler & Armstrong, 2021). 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_9.png', class="img-fluid")
         
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
-            h5.mb-3 Experiencia: 
-            p.mb-3 integrar los sentidos del cliente (vista, olfato, tacto y oído) para crear un entorno de compra agradable y memorable. Esto genera emociones positivas y mayor recordación de marca. Un ejemplo efectivo es la reproducción de música suave y el uso de aromas como el pan recién horneado en una panadería (Editorial GG, 2016; Martínez Cruz, s. f.).
+            h5.mb-3 Experiencia 
+            p.mb-3 Integrar los sentidos del cliente (vista, olfato, tacto y oído) para crear un entorno de compra agradable y memorable. Esto genera emociones positivas y mayor recordación de marca. Un ejemplo efectivo es la reproducción de música suave y el uso de aromas como el pan recién horneado en una panadería (Editorial GG, 2016; Martínez Cruz, s. f.).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_10.png', class="img-fluid")
@@ -168,21 +168,31 @@
                 .col-12.col-lg-12.mb-0
                   h5.mb-3 Visual
                   p.mb-3 Se enfoca en la estética y el impacto visual de los productos en el punto de venta. Busca atraer al cliente mediante una presentación armónica, ordenada y estratégica.
-                  p.mb-3 <b>Ejemplo.</b> Exhibición piramidal de frutas con colores contrastantes, acompañada de buena iluminación.
+                  p.mb-3 <b>Ejemplo:</b> Exhibición piramidal de frutas con colores contrastantes, acompañada de buena iluminación.
 
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-12.mb-0
                   h5.mb-3 De seducción
                   p.mb-3 Utiliza estímulos sensoriales como aromas, sonidos y texturas, así como elementos emocionales, para influir en la decisión de compra del cliente.
-                  p.mb-3 <b>Clientes recurrentes:</b> Ambientación musical suave con aromas agradables en una tienda de ropa de temporada.
+                  p.mb-3 <b>Ejemplo:</b> ambientación musical suave con aromas agradables en una tienda de ropa de temporada.
 
-              .row.justify-content-center.align-items-center
+              row.justify-content-center.align-items-center
                 .col-12.col-lg-12.mb-0
-                  p.mb-3 <b>Ejemplo.</b> aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de <em>marketing</em> deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
+                  h5.mb-3 Digital
+                  p.mb-3 Integra tecnología en la experiencia de compra, tanto en tiendas físicas como virtuales, a través de pantallas, códigos QR, <em>apps</em> o realidad aumentada.
+                  p.mb-3 <b>Ejemplo:</b> pantallas interactivas que muestran características del producto y recomendaciones personalizadas.
 
-              .row.justify-content-center.align-items-center
+              row.justify-content-center.align-items-center
                 .col-12.col-lg-12.mb-0
-                  p.mb-3 <b>Clientes leales:</b> son clientes que, con el tiempo, han mantenido una elección constante por una marca o producto, reflejando fidelidad y generando un alto nivel de compras repetidas. Un ejemplo sería Starbucks, que ha cultivado una base de clientes muy leal gracias a su programa de recompensas y la calidad constante de sus productos.
+                  h5.mb-3 De gestión
+                  p.mb-3 Orientado a la eficiencia operativa. Se enfoca en el control de inventarios, rotación de productos, y uso de herramientas como planogramas y métricas de rendimiento.
+                  p.mb-3 <b>Ejemplo:</b> implementación de planogramas digitales para optimizar la reposición y ubicación de productos.
+
+              row.justify-content-center.align-items-center
+                .col-12.col-lg-12.mb-0
+                  h5.mb-3 Por categoría
+                  p.mb-3 Agrupa los productos según su naturaleza o tipo, facilitando al cliente la comparación, elección y compra dentro de una misma familia de productos.
+                  p.mb-3 <b>Ejemplo:</b> estanterías organizadas por categoría como bebidas, cereales y snacks en un supermercado.
 
       separador
 
@@ -203,6 +213,14 @@
     
     .bg_img_2.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
+            h5.mb-3 Incrementar las ventas por impulso
+            p.mb-0 Se busca estimular compras no planeadas mediante una disposición estratégica de productos atractivos en zonas de alto tránsito, como cajas o pasillos principales.
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_16.png')
+
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0.p-4
             h5.mb-3 Aumentar el tiempo al interior del punto de venta
@@ -265,7 +283,7 @@
           .h2(data-aos="fade-right") 3.6 Beneficios 
         .mb-0 
 
-    p.mb-5 El merchandising va más allá de la presentación visual de productos; es una estrategia que impulsa las ventas, mejora la experiencia del cliente y refuerza la identidad de marca. Su correcta aplicación genera ventajas comerciales sostenibles y diferenciadoras en el punto de venta.
+    p.mb-5 El <em>merchandising</em> va más allá de la presentación visual de productos; es una estrategia que impulsa las ventas, mejora la experiencia del cliente y refuerza la identidad de marca. Su correcta aplicación genera ventajas comerciales sostenibles y diferenciadoras en el punto de venta.
 
     .bg_img_7.mb-5
       .row.justify-content-center.align-items-center.mb-0     

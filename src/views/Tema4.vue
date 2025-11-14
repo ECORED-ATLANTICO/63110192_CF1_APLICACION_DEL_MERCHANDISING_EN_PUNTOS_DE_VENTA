@@ -32,7 +32,7 @@
       .col-12.col-lg-10.mb-4
         .titulo-sexto.color-tabla
             h5 Tabla 3. 
-            |  Tipos de layout en <em>merchandising</em> visual
+            |  Tipos de <em>layout</em> en <em>merchandising</em> visual
         .tabla-a.mb-5
           table
             caption
@@ -45,32 +45,32 @@
                 th Ejemplo práctico
             tbody
               tr
-                td <em>Grid</em> (Cuadrícula)
+                td <em>Grid</em> (Cuadrícula).
                 td Organización en pasillos rectos y paralelos. Maximiza el espacio, facilita la búsqueda.
                 td Optimiza el espacio y permite alta densidad de productos con fácil localización.
                 td Supermercados, tiendas de descuento como D1 o Dollar City.
               tr.bg-table-01
-                td <em>Loop (Racetrack)</em>
+                td <em>Loop (Racetrack).</em>
                 td Camino principal que guía al cliente por todo el local en forma de circuito.
                 td Estimula la exploración completa y exposición uniforme de categorías.
                 td Grandes superficies como IKEA o almacenes por departamentos.
               tr
-                td <em>Free-flow</em> (Libre)
+                td <em>Free-flow</em> (Libre).
                 td Diseño abierto sin pasillos fijos. Fomenta la exploración y la ambientación relajada.
                 td Favorece la experiencia personalizada y estimula compras por descubrimiento.
                 td Boutiques de moda, tiendas de diseño independiente.
               tr.bg-table-01
-                td <em>Spine</em> (Espina dorsal)
+                td <em>Spine</em> (Espina dorsal).
                 td Pasillo central con conexiones laterales. Combina eficiencia con visibilidad del producto.
                 td Facilita la navegación y destaca productos estratégicos a lo largo del eje. 
                 td Tiendas de tecnología, droguerías, locales tipo <em>minimarket</em>.
               tr
-                td Angular / Geométrico
+                td Angular / Geométrico.
                 td Usa formas diagonales o no convencionales. Aporta estética visual y recorrido original.
                 td Aumenta el atractivo visual y da un carácter exclusivo al espacio comercial. 
                 td Tiendas de lujo, <em>concept stores</em>, perfumerías especializadas.
               tr.bg-table-01
-                td <em>Herringbone</em> (Espina de pescado)
+                td <em>Herringbone</em> (Espina de pescado).
                 td Ideal para espacios angostos. Combina pasillos diagonales para optimizar el flujo.
                 td Mejora la circulación en espacios estrechos y aprovecha rincones para exposición. 
                 td Librerías pequeñas o tiendas de ropa en espacios reducidos.
@@ -91,7 +91,7 @@
         .tarjeta.color-secundario-20.p-4
           .row.justify-content-center.align-items-center
             .col-12.col-lg-10.order-2.order-lg-1.mb-0
-              p.mb-0 El vitrinismo es una herramienta clave en el marketing visual que busca captar la atención del cliente desde el exterior del punto de venta. Uno de sus elementos principales es el diseño visual, que combina aspectos como colores, formas, estilos e iluminación para reflejar la identidad del negocio y atraer al público desde la primera mirada (González, 2019). Se debe tener en cuenta:
+              p.mb-0 El vitrinismo es una herramienta clave en el <em>marketing</em> visual que busca captar la atención del cliente desde el exterior del punto de venta. Uno de sus elementos principales es el diseño visual, que combina aspectos como colores, formas, estilos e iluminación para reflejar la identidad del negocio y atraer al público desde la primera mirada (González, 2019). Se debe tener en cuenta:
             .col-4.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema_4/img_4.png', class="img-fluid")
@@ -131,41 +131,46 @@
 
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-terciario-20").mb-5
-      div(titulo="La tematización")
+      div(titulo="Vitrinismo")
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-7.order-2.order-lg-1.mb-0
-            p.mb-0 es la creación de conceptos visuales asociados a eventos especiales, temporadas o campañas promocionales. Esto ayuda a generar una conexión emocional con los consumidores y a hacer que la experiencia de compra sea más memorable (González, 2019).
+            p.mb-0 Es una técnica del <em>merchandising</em> visual que se enfoca en el diseño, organización y presentación de las vitrinas o estantes, con el propósito de atraer la atención del público, generar interés por los productos y motivar la compra. Constituye una herramienta de comunicación visual que permite a las marcas proyectar su identidad, destacar sus productos y crear experiencias sensoriales que influyan en la percepción del consumidor antes de ingresar al punto de venta.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_6.png', class="img-fluid")
-      div(titulo="La iluminación estratégica")
+      div(titulo="Ambientación")
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-7.order-2.order-lg-1.mb-0
-            p.mb-0 también cumple un rol crucial. Al colocar luz sobre ciertos productos o zonas, se logra resaltar lo más relevante, guiar la mirada del cliente y aumentar la percepción de valor de los artículos exhibidos (González, 2019).
+            p.mb-0 La ambientación involucra el conjunto de elementos que configuran el entorno sensorial del punto de venta. Incluye la decoración, el uso de materiales, texturas y el estilo general del establecimiento. Su objetivo es generar una atmósfera cómoda, agradable y alineada con el posicionamiento del negocio. Una ambientación adecuada puede aumentar el tiempo de permanencia y favorecer la experiencia emocional del cliente (Martínez Cruz, s. f.).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_7.png', class="img-fluid")
-      div(titulo="La buena distribución del espacio")
+      div(titulo="Señalización y rotulación")
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-7.order-2.order-lg-1.mb-0
-            p.mb-0 en la vitrina evita la saturación visual y permite que el mensaje llegue con claridad. Al equilibrar los elementos, se facilita la lectura del concepto visual y se optimiza el uso del espacio disponible (González, 2019).
+            p.mb-0 Estos elementos orientan, informan y promueven dentro del punto de venta. La señalización dirige el recorrido y organiza los espacios, mientras que la rotulación destaca ofertas, categorías y atributos de los productos. Es fundamental que ambos se diseñen con claridad, coherencia gráfica y ubicación estratégica para facilitar la navegación del consumidor (Editorial GG, 2016).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_8.png', class="img-fluid")
-      div(titulo="La renovación frecuente")
+      div(titulo="Iluminación")
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-7.order-2.order-lg-1.mb-0
-            p.mb-0 adaptándola a fechas clave o a nuevas promociones. Esta actualización mantiene la atención del cliente, crea un sentido de novedad constante y puede motivar visitas recurrentes al establecimiento (González, 2019).
+            p.mb-0 La iluminación tiene un papel clave en la percepción de los productos y del espacio en general. Una luz adecuada puede resaltar artículos, crear ambientes cálidos o dinámicos y dirigir la atención del cliente hacia zonas de interés. Existen distintas técnicas, como la iluminación general, focal y decorativa, que se combinan según los objetivos del punto de venta (Editorial GG, 2016).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_9.png', class="img-fluid")
-      div(titulo="El enfoque en productos estratégicos")
+      div(titulo="Color")
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-7.order-2.order-lg-1.mb-0
-            p.mb-0 dentro de la vitrina permite dirigir el interés hacia artículos de alta rotación o con ofertas destacadas, favoreciendo su venta y aprovechando al máximo el espacio de exhibición (González, 2019).
+            p.mb-0 En el ámbito del <em>marketing</em> y el <em>merchandising</em>, el color es una herramienta estratégica clave que influye directamente en las emociones, decisiones de compra y comportamiento del consumidor. Cada color transmite sensaciones y valores distintos, lo cual permite a las marcas y establecimientos generar atmósferas específicas, reforzar su identidad visual y destacar productos o promociones. 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_10.png', class="img-fluid")
+    
+    .row.justify-content-center.align-items-center.mb-5.mt-5
+      .col-12.col-lg-10 
+        .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
+          p.mb-2 El uso adecuado del color en los espacios comerciales no solo atrae la atención del cliente, sino que también puede mejorar la experiencia de compra, incrementar el tiempo de permanencia en el punto de venta y favorecer la fidelización. Según Kotler y Armstrong (2018), el color, al igual que otros estímulos visuales, tiene un impacto significativo en la percepción del consumidor y en sus decisiones dentro del entorno de compra. A continuación, se presenta una tabla con los principales colores utilizados en <em>merchandising</em>, su impacto psicológico, beneficios y aplicaciones más comunes.
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
@@ -184,47 +189,47 @@
                 th Ejemplos de uso común
             tbody
               tr
-                td Rojo
+                td Rojo.
                 td Estimula, crea urgencia, llama la atención.
                 td Aumenta el deseo de compra, útil en promociones.
                 td Señales de descuento, ofertas, zonas de impulso.
               tr.bg-table-01
-                td Azul
+                td Azul.
                 td Transmite confianza, tranquilidad y profesionalismo.
                 td Genera sensación de seguridad, ideal para fidelización.
                 td Productos tecnológicos, marcas bancarias.
               tr
-                td Amarillo
+                td Amarillo.
                 td Alegre, energético, estimula la atención visual.
                 td Aumenta la visibilidad y favorece la retención visual.
                 td Áreas infantiles, anuncios creativos.
               tr.bg-table-01
-                td Verde
+                td Verde.
                 td Asociado con naturaleza, frescura y bienestar.
                 td Ideal para productos ecológicos o saludables.
                 td Supermercados, negocios verdes, farmacias.
               tr
-                td Naranja
+                td Naranja.
                 td Entusiasmo, creatividad, dinamismo.
                 td Estimula la acción y el consumo impulsivo.
                 td Tiendas deportivas, accesorios.
               tr.bg-table-01
-                td Negro
+                td Negro.
                 td Elegancia, sofisticación, simplicidad.
                 td Transmite exclusividad y lujo.
                 td Productos <em>premium</em>, vitrinas de moda.
               tr
-                td Blanco
+                td Blanco.
                 td Limpieza, pureza, simplicidad.
                 td Genera sensación de orden y amplitud.
                 td Farmacias, tiendas de tecnología, vitrinas minimalistas.
               tr.bg-table-01
-                td Rosa
+                td Rosa.
                 td Sensibilidad, ternura, feminidad.
                 td Crea un ambiente acogedor, usado en productos dirigidos a mujeres.
                 td Cosméticos, moda femenina.
               tr
-                td Morado
+                td Morado.
                 td Lujo, misterio, creatividad.
                 td Potencia productos exclusivos e innovadores.
                 td Perfumería, productos de belleza.

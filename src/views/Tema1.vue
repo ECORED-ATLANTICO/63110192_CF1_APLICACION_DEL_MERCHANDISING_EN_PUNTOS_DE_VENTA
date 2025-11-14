@@ -55,7 +55,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-11.order-2.order-lg-1.mb-0
-        p.mb-0 Desde la perspectiva del punto de venta, tanto los productos como los servicios deben gestionarse estratégicamente a través de herramientas como el <em>merchandising</em> visual, que busca seducir al cliente mediante la organización del espacio, la ambientación sensorial y la presentación adecuada de los elementos de la oferta (Editorial GG, s.&nbsp;f.). Esto cobra aún más relevancia cuando se trata de servicios, donde el entorno influye directamente en la percepción de calidad.
+        p.mb-0 En cuanto a los servicios, estos también pueden clasificarse con base en el tipo de necesidad que satisfacen o el perfil del usuario. Por ejemplo, hay servicios personales (como una consulta estética), servicios profesionales (como una asesoría legal), servicios comerciales (como la atención al cliente en una tienda), y servicios públicos (como el transporte urbano o la educación ofrecida por el Estado).
       .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
         img(src="@/assets/curso/temas/tema_1/img_4_1.svg", class="img-fluid")
     
@@ -209,23 +209,23 @@
                   th Servicios (bienes intangibles)
               tbody
                 tr
-                  td Tangibilidad
+                  td Tangibilidad.
                   td Son visibles, palpables y evaluables antes de la compra.
                   td No pueden tocarse ni evaluarse físicamente antes del uso.
                 tr.bg-table-01
-                  td Producción
+                  td Producción.
                   td Se producen antes de su consumo y pueden almacenarse.
                   td Se producen y consumen simultáneamente.
                 tr
-                  td Homogeneidad
+                  td Homogeneidad.
                   td Productos iguales mantienen consistencia en calidad y forma.
                   td La calidad puede variar entre prestadores y situaciones.
                 tr.bg-table-01
-                  td Perecibilidad
+                  td Perecibilidad.
                   td Pueden conservarse hasta que el cliente los adquiera.
                   td No pueden guardarse; si no se usan, se pierden.  
                 tr
-                  td Propiedad
+                  td Propiedad.
                   td Se transfiere al comprador junto con el bien.
                   td El cliente solo accede a la experiencia o resultado.
 
