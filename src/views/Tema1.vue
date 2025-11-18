@@ -64,7 +64,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_1/img_5.svg")
         h3.titulo-con-imagen__texto Tipos de productos y servicios
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-start.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_1/img_6.png", class="img-flud")
@@ -142,7 +142,7 @@
                 h5.mb-3 Servicio comercial
                 p.mb-3 Servicios prestados por empresas privadas en el ámbito de ventas.
                 p.mb-3 <b>Ejemplo:</b> atención al cliente, entregas.
-
+                
     separador
 
     .row.justify-content-center.align-items-center.mb-0     
