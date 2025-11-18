@@ -250,7 +250,7 @@
           .tarjeta.color-secundario-20.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-10.order-2.order-lg-1.mb-0
-                p.mb-0 <b>Ejemplo en la práctica:</b> una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el fitness (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.
+                p.mb-0 <b>Ejemplo en la práctica:</b> una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el <em>fitness</em> (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.
               .col-4.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_24.svg', class="img-fluid")
@@ -302,7 +302,7 @@
                   .col-12.mb-3
                     .tarjeta--4
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Factores sociales y culturales
-                  .tarjeta--slider__content.text-center las referencias de grupo, la cultura de consumo y las tendencias sociales condicionan la decisión final.
+                  .tarjeta--slider__content.text-center Las referencias de grupo, la cultura de consumo y las tendencias sociales condicionan la decisión final.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3

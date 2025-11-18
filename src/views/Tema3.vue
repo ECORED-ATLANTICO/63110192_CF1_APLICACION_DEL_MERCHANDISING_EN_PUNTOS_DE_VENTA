@@ -71,8 +71,8 @@
                 img(src="@/assets/curso/temas/tema_3/img_5.png", class="img-fluid")
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Digital
-              p.mb-2.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, big data y experiencia personalizada.
-              p.mb-2.text-center <b>Ejemplo:</b> Kioscos interactivos, apps para escanear productos 
+              p.mb-2.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, <em>big data</em> y experiencia personalizada.
+              p.mb-2.text-center <b>Ejemplo:</b> Kioscos interactivos, <em>apps</em> para escanear productos. 
 
     separador
 
@@ -172,7 +172,7 @@
                 .col-12.col-lg-12.mb-0
                   h5.mb-3 Visual
                   p.mb-3 Se enfoca en la estética y el impacto visual de los productos en el punto de venta. Busca atraer al cliente mediante una presentación armónica, ordenada y estratégica.
-                  p.mb-3 <b>Ejemplo:</b> Exhibición piramidal de frutas con colores contrastantes, acompañada de buena iluminación.
+                  p.mb-3 <b>Ejemplo:</b> exhibición piramidal de frutas con colores contrastantes, acompañada de buena iluminación.
 
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-12.mb-0
@@ -196,7 +196,7 @@
                 .col-12.col-lg-12.mb-0
                   h5.mb-3 Por categoría
                   p.mb-3 Agrupa los productos según su naturaleza o tipo, facilitando al cliente la comparación, elección y compra dentro de una misma familia de productos.
-                  p.mb-3 <b>Ejemplo:</b> estanterías organizadas por categoría como bebidas, cereales y snacks en un supermercado.
+                  p.mb-3 <b>Ejemplo:</b> estanterías organizadas por categoría como bebidas, cereales y <em>snacks</em> en un supermercado.
 
       separador
 
@@ -312,7 +312,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-8.order-2.order-lg-1.mb-0.text-justify
                 h3.mb-3 Incremento de ventas por impulso
-                p.mb-0 El <em>merchandising</em> estimula las compras no planeadas al ubicar productos llamativos en zonas de paso o espera, como las cajas registradoras. Estos estímulos aprovechan momentos estratégicos para incentivar decisiones rápidas de compra, aumentando así el ticket promedio (Editorial GG, 2016).
+                p.mb-0 El <em>merchandising</em> estimula las compras no planeadas al ubicar productos llamativos en zonas de paso o espera, como las cajas registradoras. Estos estímulos aprovechan momentos estratégicos para incentivar decisiones rápidas de compra, aumentando así el <em>ticket</em> promedio (Editorial GG, 2016).
               .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_25.png', class="img-fluid")

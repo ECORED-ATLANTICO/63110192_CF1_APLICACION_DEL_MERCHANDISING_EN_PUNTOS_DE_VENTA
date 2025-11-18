@@ -233,7 +233,7 @@ export default {
         {
           id: 10,
           texto:
-            'Un buen layout debe facilitar el recorrido del cliente y optimizar zonas calientes.',
+            'Un buen <em>layout</em> debe facilitar el recorrido del cliente y optimizar zonas calientes.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
