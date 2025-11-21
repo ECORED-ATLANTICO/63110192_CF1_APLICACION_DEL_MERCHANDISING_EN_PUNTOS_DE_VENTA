@@ -82,8 +82,8 @@
             h5 Figura 2.
             |  Tipos de clientes
           figure
-            img(src="@/assets/curso/temas/tema_2/img_9.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 2 muestra los diferentes tipos de clientes que existen en el mercado y sus características. Texto de la imagen: Clientes nuevos: hacen su primera compra; se atraen con promociones. Clientes recurrentes: compran con frecuencia y generan ingresos constantes. Clientes potenciales: aún no compran, pero muestran interés. Clientes leales: prefieren siempre la misma marca y compran repetidamente.")
-            img(src="@/assets/curso/temas/tema_2/img_10.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 2 muestra los diferentes tipos de clientes que existen en el mercado y sus características. Texto de la imagen: Clientes nuevos: hacen su primera compra; se atraen con promociones. Clientes recurrentes: compran con frecuencia y generan ingresos constantes. Clientes potenciales: aún no compran, pero muestran interés. Clientes leales: prefieren siempre la misma marca y compran repetidamente.")
+            img(src="@/assets/curso/temas/tema_2/img_9.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 2 muestra los diferentes tipos de clientes que existen en el mercado y sus características.")
+            img(src="@/assets/curso/temas/tema_2/img_10.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 2 muestra los diferentes tipos de clientes que existen en el mercado y sus características.")
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
     
@@ -160,8 +160,8 @@
             h5 Figura 3.
             |  Dimensiones en la perfilación de clientes
           figure
-            img(src="@/assets/curso/temas/tema_2/img_18.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 3 muestra los aspectos que las empresas deben tener en cuenta para perfilar un cliente; esto es importante para el diseño de las estrategias de mercadeo. Texto de la imagen: Demográficas: edad, género, ingresos. Geográficas: lugar de residencia. Psicográficas: estilo de vida y valores. Conductuales: hábitos de compra y lealtad.")
-            img(src="@/assets/curso/temas/tema_2/img_19.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 3 muestra los aspectos que las empresas deben tener en cuenta para perfilar un cliente; esto es importante para el diseño de las estrategias de mercadeo. Texto de la imagen: Demográficas: edad, género, ingresos. Geográficas: lugar de residencia. Psicográficas: estilo de vida y valores. Conductuales: hábitos de compra y lealtad.")
+            img(src="@/assets/curso/temas/tema_2/img_18.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 3 muestra los aspectos que las empresas deben tener en cuenta para perfilar un cliente; esto es importante para el diseño de las estrategias de mercadeo.")
+            img(src="@/assets/curso/temas/tema_2/img_19.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 3 muestra los aspectos que las empresas deben tener en cuenta para perfilar un cliente; esto es importante para el diseño de las estrategias de mercadeo.")
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
 

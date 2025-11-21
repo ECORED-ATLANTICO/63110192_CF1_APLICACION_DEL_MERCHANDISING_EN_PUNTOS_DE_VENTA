@@ -146,8 +146,33 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Música ambiental',
+            titulo: 'Vitrinismo',
             hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Ambientación',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Señalización y rotulación',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Iluminación',
+            hash: 't_4_6',
+          },
+          {
+            numero: '4.7',
+            titulo: 'Color',
+            hash: 't_4_7',
+          },
+          {
+            numero: '4.8',
+            titulo: 'Música ambiental',
+            hash: 't_4_8',
           },
         ],
       },
@@ -239,7 +264,7 @@ export default {
     {
       termino: 'Ambientación',
       significado:
-        'Conjunto de elementos sensoriales como aroma, temperatura, decoración y música que crean una atmósfera específica en el punto de venta.',
+        'Conjunto de elementos sensoriales como aroma, temperatura, decoración y sonido que crean una atmósfera específica en el punto de venta.',
     },
     {
       termino: 'Cliente',
@@ -309,7 +334,7 @@ export default {
     {
       termino: 'Promoción',
       significado:
-        'Acciones y estrategias que buscan incentivar la compra mediante descuentos, ofertas o estímulos.',
+        'Acciones o estrategias que buscan incentivar la compra mediante descuentos, ofertas u otros estímulos.',
     },
     {
       termino: 'Punto de venta',

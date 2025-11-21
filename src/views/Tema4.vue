@@ -129,48 +129,71 @@
         figure
           img(src="@/assets/curso/temas/tema_4/img_5.png", class="img-flud").h-100
 
-
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-terciario-20").mb-5
-      div(titulo="Vitrinismo")
-        .row.justify-content-center.align-items-center.px-1
-          .col-12.col-lg-7.order-2.order-lg-1.mb-0
+    .row.justify-content-center.align-items-center.mb-5     
+      .col-12.col-lg-10
+        #t_4_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.3.	Vitrinismo 
+        .mb-0 
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-8.order-2.order-lg-1.mb-0
             p.mb-0 Es una técnica del <em>merchandising</em> visual que se enfoca en el diseño, organización y presentación de las vitrinas o estantes, con el propósito de atraer la atención del público, generar interés por los productos y motivar la compra. Constituye una herramienta de comunicación visual que permite a las marcas proyectar su identidad, destacar sus productos y crear experiencias sensoriales que influyan en la percepción del consumidor antes de ingresar al punto de venta.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_6.png', class="img-fluid")
-      div(titulo="Ambientación")
-        .row.justify-content-center.align-items-center.px-1
-          .col-12.col-lg-7.order-2.order-lg-1.mb-0
+    
+    .row.justify-content-center.align-items-center.mb-5     
+      .col-12.col-lg-10
+        #t_4_4.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.4.	Ambientación
+        .mb-0
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-8.order-2.order-lg-1.mb-0
             p.mb-0 La ambientación involucra el conjunto de elementos que configuran el entorno sensorial del punto de venta. Incluye la decoración, el uso de materiales, texturas y el estilo general del establecimiento. Su objetivo es generar una atmósfera cómoda, agradable y alineada con el posicionamiento del negocio. Una ambientación adecuada puede aumentar el tiempo de permanencia y favorecer la experiencia emocional del cliente (Martínez Cruz, s. f.).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_7.png', class="img-fluid")
-      div(titulo="Señalización y rotulación")
+
+    .row.justify-content-center.align-items-center.mb-5    
+      .col-12.col-lg-10
+        #t_4_5.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.5.	Señalización y rotulación
+        .mb-0
         .row.justify-content-center.align-items-center.px-1
-          .col-12.col-lg-7.order-2.order-lg-1.mb-0
+          .col-12.col-lg-8.order-2.order-lg-1.mb-0
             p.mb-0 Estos elementos orientan, informan y promueven dentro del punto de venta. La señalización dirige el recorrido y organiza los espacios, mientras que la rotulación destaca ofertas, categorías y atributos de los productos. Es fundamental que ambos se diseñen con claridad, coherencia gráfica y ubicación estratégica para facilitar la navegación del consumidor (Editorial GG, 2016).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_8.png', class="img-fluid")
-      div(titulo="Iluminación")
-        .row.justify-content-center.align-items-center.px-1
-          .col-12.col-lg-7.order-2.order-lg-1.mb-0
+  
+    .row.justify-content-center.align-items-center.mb-5   
+      .col-12.col-lg-10
+        #t_4_6.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.6.	Iluminación
+        .mb-0
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-8.order-2.order-lg-1.mb-0
             p.mb-0 La iluminación tiene un papel clave en la percepción de los productos y del espacio en general. Una luz adecuada puede resaltar artículos, crear ambientes cálidos o dinámicos y dirigir la atención del cliente hacia zonas de interés. Existen distintas técnicas, como la iluminación general, focal y decorativa, que se combinan según los objetivos del punto de venta (Editorial GG, 2016).
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_9.png', class="img-fluid")
-      div(titulo="Color")
-        .row.justify-content-center.align-items-center.px-1
-          .col-12.col-lg-7.order-2.order-lg-1.mb-0
+    
+    .row.justify-content-center.align-items-center.mb-5     
+      .col-12.col-lg-10
+        #t_4_7.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.7.	Color
+        .mb-0
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-8.order-2.order-lg-1.mb-0
             p.mb-0 En el ámbito del <em>marketing</em> y el <em>merchandising</em>, el color es una herramienta estratégica clave que influye directamente en las emociones, decisiones de compra y comportamiento del consumidor. Cada color transmite sensaciones y valores distintos, lo cual permite a las marcas y establecimientos generar atmósferas específicas, reforzar su identidad visual y destacar productos o promociones. 
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_4/img_10.png', class="img-fluid")
-        .row.justify-content-center.align-items-center.mb-3.mt-2
-          .col-12.col-lg-11 
-            .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-              p.mb-2 El uso adecuado del color en los espacios comerciales no solo atrae la atención del cliente, sino que también puede mejorar la experiencia de compra, incrementar el tiempo de permanencia en el punto de venta y favorecer la fidelización. Según Kotler y Armstrong (2018), el color, al igual que otros estímulos visuales, tiene un impacto significativo en la percepción del consumidor y en sus decisiones dentro del entorno de compra. A continuación, se presenta una tabla con los principales colores utilizados en <em>merchandising</em>, su impacto psicológico, beneficios y aplicaciones más comunes.
-    
+
+    .row.justify-content-center.align-items-center.mb-5.mt-3
+      .col-12.col-lg-10 
+        .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
+          p.mb-2 El uso adecuado del color en los espacios comerciales no solo atrae la atención del cliente, sino que también puede mejorar la experiencia de compra, incrementar el tiempo de permanencia en el punto de venta y favorecer la fidelización. Según Kotler y Armstrong (2018), el color, al igual que otros estímulos visuales, tiene un impacto significativo en la percepción del consumidor y en sus decisiones dentro del entorno de compra. A continuación, se presenta una tabla con los principales colores utilizados en <em>merchandising</em>, su impacto psicológico, beneficios y aplicaciones más comunes.
+      
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
         .titulo-sexto.color-tabla
@@ -214,7 +237,7 @@
                 td Tiendas deportivas, accesorios.
               tr.bg-table-01
                 td Negro.
-                td Elegancia, sofisticación, simplicidad.
+                td Elegancia, sofisticación.
                 td Transmite exclusividad y lujo.
                 td Productos <em>premium</em>, vitrinas de moda.
               tr
@@ -238,8 +261,8 @@
 
     .row.justify-content-center.align-items-center.mb-0     
       .col-12.col-lg-12
-        #t_4_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.3 Música ambiental
+        #t_4_8.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.8 Música ambiental
         .mb-0 
 
     .bloque-texto-g.bloque-texto-g.color-adicional-2.p-3.p-sm-4.p-md-5.mb-5
@@ -252,7 +275,7 @@
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10 
           .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-            p.mb-2 Se recomienda revisar los siguientes videos, los cuales cual aportaran conocimientos relevantes y reforzará contenido de relacionado con el tema <em>merchandising</em> visual: 
+            p.mb-2 Se recomienda revisar los siguientes videos, los cuales aportaran conocimientos relevantes y reforzará contenido relacionado con el tema <em>merchandising</em> visual: 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

@@ -72,7 +72,7 @@
             .crd_hover_txt--body.color-terciario-20.p4
               h5.mb-4.text-center Digital
               p.mb-2.text-center Utiliza tecnologías avanzadas, como realidad aumentada, pantallas digitales, <em>big data</em> y experiencia personalizada.
-              p.mb-2.text-center <b>Ejemplo:</b> Kioscos interactivos, <em>apps</em> para escanear productos. 
+              p.mb-2.text-center <b>Ejemplo:</b> Kioscos interactivos, <em>apps</em> para escanear productos y promociones automáticas. 
 
     separador
 
@@ -135,8 +135,8 @@
           .row.justify-content-center.align-items-center.mb-5.mt-5
             .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12.col-xxl-12.mb-0
               figure
-                img(src="@/assets/curso/temas/tema_3/img_11.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos. Texto de la imagen: describe los principios básicos en la aplicación del merchandising: Atracción: captar la atención del cliente mediante elementos visuales como color, forma y movimiento. Orden: organizar los productos de forma clara y lógica para facilitar la circulación del cliente. Renovación: actualizar periódicamente las exhibiciones y ambientes para mantener el interés del comprador. Coherencia: alinear la presentación del punto de venta con la identidad de marca y el público objetivo. Experiencia: involucrar los sentidos del cliente para generar una vivencia de compra agradable y memorable.")
-                img(src="@/assets/curso/temas/tema_3/img_12.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos. Texto de la imagen: describe los principios básicos en la aplicación del merchandising: Atracción: captar la atención del cliente mediante elementos visuales como color, forma y movimiento. Orden: organizar los productos de forma clara y lógica para facilitar la circulación del cliente. Renovación: actualizar periódicamente las exhibiciones y ambientes para mantener el interés del comprador. Coherencia: alinear la presentación del punto de venta con la identidad de marca y el público objetivo. Experiencia: involucrar los sentidos del cliente para generar una vivencia de compra agradable y memorable.")
+                img(src="@/assets/curso/temas/tema_3/img_11.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos.")
+                img(src="@/assets/curso/temas/tema_3/img_12.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La figura 4 muestra cuales son los principios básicos para la aplicación del merchandising, los cuales facilitan una aplicación organizada y eficiente, garantizando que las acciones desarrolladas contribuyan al cumplimiento de los objetivos estratégicos establecidos.")
           figcaption 
             p <b>Fuente:</b> SENA 2025. 
     
@@ -275,8 +275,8 @@
             h5 Figura 5.
             |  Objetivos del <em>merchandising</em>
           figure
-            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresaTexto de la imagen: Se enlistan los objetivos de merchandising entre los cuales tenemos: Incrementar las ventas por impulso. Aumentar el tiempo al interior del punto de venta. Mejorar la presentación del producto. Facilitar la rotación del inventario. Reforzar la imagen de marca. Y orientar al cliente en su trayectoria en proceso de compra.")
-            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresaTexto de la imagen: Se enlistan los objetivos de merchandising entre los cuales tenemos: Incrementar las ventas por impulso. Aumentar el tiempo al interior del punto de venta. Mejorar la presentación del producto. Facilitar la rotación del inventario. Reforzar la imagen de marca. Y orientar al cliente en su trayectoria en proceso de compra.")
+            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresa")
+            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3", alt="en la figura se presentan los objetivos mas importantes  del merchansading aplicados a una empresa")
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
 
