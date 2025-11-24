@@ -29,7 +29,7 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/JAUAw5CC4q4?si=MMRx_jCt-InS1nnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/z7HI0LFOEkY?si=mAhWMA27IFT0av2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Principios del <em>merchandising</em>
 
 </template>
