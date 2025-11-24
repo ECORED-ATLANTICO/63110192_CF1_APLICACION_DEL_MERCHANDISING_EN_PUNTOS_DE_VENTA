@@ -132,7 +132,7 @@
     .row.justify-content-center.align-items-center.mb-5     
       .col-12.col-lg-10
         #t_4_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.3.	Vitrinismo 
+          .h2(data-aos="fade-right") 4.3	Vitrinismo 
         .mb-0 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.order-2.order-lg-1.mb-0
@@ -144,7 +144,7 @@
     .row.justify-content-center.align-items-center.mb-5     
       .col-12.col-lg-10
         #t_4_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.4.	Ambientación
+          .h2(data-aos="fade-right") 4.4	Ambientación
         .mb-0
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.order-2.order-lg-1.mb-0
@@ -156,7 +156,7 @@
     .row.justify-content-center.align-items-center.mb-5    
       .col-12.col-lg-10
         #t_4_5.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.5.	Señalización y rotulación
+          .h2(data-aos="fade-right") 4.5	Señalización y rotulación
         .mb-0
         .row.justify-content-center.align-items-center.px-1
           .col-12.col-lg-8.order-2.order-lg-1.mb-0
@@ -168,7 +168,7 @@
     .row.justify-content-center.align-items-center.mb-5   
       .col-12.col-lg-10
         #t_4_6.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.6.	Iluminación
+          .h2(data-aos="fade-right") 4.6	Iluminación
         .mb-0
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.order-2.order-lg-1.mb-0
@@ -180,7 +180,7 @@
     .row.justify-content-center.align-items-center.mb-5     
       .col-12.col-lg-10
         #t_4_7.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.7.	Color
+          .h2(data-aos="fade-right") 4.7	Color
         .mb-0
         .row.justify-content-center.align-items-center
           .col-12.col-lg-8.order-2.order-lg-1.mb-0
