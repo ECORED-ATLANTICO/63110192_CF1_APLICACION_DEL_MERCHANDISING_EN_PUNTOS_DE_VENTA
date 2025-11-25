@@ -275,7 +275,7 @@
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10 
           .cajon.color-terciario-20.p-4.mb-0(data-aos="fade-left")
-            p.mb-2 Se recomienda revisar los siguientes videos, los cuales aportaran conocimientos relevantes y reforzará contenido relacionado con el tema <em>merchandising</em> visual: 
+            p.mb-2 Se recomienda revisar los siguientes videos, los cuales aportarán conocimientos relevantes y reforzará contenido relacionado con el tema <em>merchandising</em> visual: 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

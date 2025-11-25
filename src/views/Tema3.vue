@@ -275,8 +275,8 @@
             h5 Figura 5.
             |  Objetivos del <em>merchandising</em>
           figure
-            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3", alt="En la figura 5 se presentan los objetivos más importantes  del merchansiding aplicados a una empresa.")
-            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3", alt="En la figura 5 se presentan los objetivos más importantes  del merchansiding aplicados a una empresa.")
+            img(src="@/assets/curso/temas/tema_3/img_21.svg", class="img-fluid d-none d-lg-block img100 mb-3", alt="En la figura 5 se presentan los objetivos más importantes del merchansiding aplicados a una empresa.")
+            img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-block d-lg-none img100 mb-3", alt="En la figura 5 se presentan los objetivos más importantes del merchansiding aplicados a una empresa.")
           figcaption 
             p <b>Fuente:</b> SENA 2025.  
 
